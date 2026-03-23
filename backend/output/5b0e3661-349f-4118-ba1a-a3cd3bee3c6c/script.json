@@ -1,0 +1,61 @@
+{
+  "title": "The Water Cycle",
+  "grade": 6,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "learning_objectives": [
+    "Understand water cycle process",
+    "Identify key stages",
+    "Recognize water conservation"
+  ],
+  "introduction": "Imagine Earth as a big blue ball, surrounded by water, let's explore the water cycle",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Evaporation Stage",
+      "narration": "Water from oceans, lakes, and rivers evaporates into the air as water vapor, forming clouds",
+      "key_concepts": [
+        "Evaporation",
+        "Water vapor"
+      ],
+      "slide_points": [
+        "Water heats up",
+        "Turns to vapor",
+        "Rises to air"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Condensation Stage",
+      "narration": "As water vapor cools down in the clouds, it condenses into tiny droplets, forming precipitation",
+      "key_concepts": [
+        "Condensation",
+        "Precipitation"
+      ],
+      "slide_points": [
+        "Vapor cools",
+        "Droplets form",
+        "Precipitation falls"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Runoff and Infiltration",
+      "narration": "Once the precipitation reaches the ground, it either flows over the surface as runoff or infiltrates the soil to recharge groundwater",
+      "key_concepts": [
+        "Runoff",
+        "Infiltration"
+      ],
+      "slide_points": [
+        "Water flows",
+        "Soil absorbs",
+        "Groundwater recharges"
+      ]
+    }
+  ],
+  "conclusion": "The water cycle is essential for life on Earth, let's conserve water to protect our planet",
+  "quiz_question": "What is the process called when water vapor cools and turns back into liquid?",
+  "quiz_answer": "Condensation"
+}

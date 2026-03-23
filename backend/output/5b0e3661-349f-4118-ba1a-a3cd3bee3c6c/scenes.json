@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "The Water Cycle",
+    "narration": "Imagine Earth as a big blue ball, surrounded by water, let's explore the water cycle",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Understand water cycle process",
+      "Identify key stages",
+      "Recognize water conservation"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation Stage",
+    "narration": "Water from oceans, lakes, and rivers evaporates into the air as water vapor, forming clouds",
+    "slide_points": [
+      "Water heats up",
+      "Turns to vapor",
+      "Rises to air"
+    ],
+    "key_concepts": [
+      "Evaporation",
+      "Water vapor"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation Stage",
+    "narration": "As water vapor cools down in the clouds, it condenses into tiny droplets, forming precipitation",
+    "slide_points": [
+      "Vapor cools",
+      "Droplets form",
+      "Precipitation falls"
+    ],
+    "key_concepts": [
+      "Condensation",
+      "Precipitation"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Runoff and Infiltration",
+    "narration": "Once the precipitation reaches the ground, it either flows over the surface as runoff or infiltrates the soil to recharge groundwater",
+    "slide_points": [
+      "Water flows",
+      "Soil absorbs",
+      "Groundwater recharges"
+    ],
+    "key_concepts": [
+      "Runoff",
+      "Infiltration"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "The water cycle is essential for life on Earth, let's conserve water to protect our planet What is the process called when water vapor cools and turns back into liquid?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation Stage",
+      "Condensation Stage",
+      "Runoff and Infiltration",
+      "What is the process called when water vapor cools and turns …"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

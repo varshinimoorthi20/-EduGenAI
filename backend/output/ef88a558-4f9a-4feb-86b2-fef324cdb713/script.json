@@ -1,0 +1,64 @@
+{
+  "title": "Cloud Architecture Essentials",
+  "grade": 12,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Define cloud architecture",
+    "Explain deployment models",
+    "Identify service models"
+  ],
+  "introduction": "Visualize cloud infrastructure as layered diagrams",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Cloud Deployment Models",
+      "narration": "Picture public, private, hybrid clouds",
+      "key_concepts": [
+        "Public Cloud",
+        "Private Cloud"
+      ],
+      "slide_points": [
+        "Public: Shared",
+        "Private: Secure",
+        "Hybrid: Flexible"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Cloud Service Models",
+      "narration": "Imagine IaaS, PaaS, SaaS as building blocks",
+      "key_concepts": [
+        "IaaS",
+        "PaaS",
+        "SaaS"
+      ],
+      "slide_points": [
+        "IaaS: Infrastructure",
+        "PaaS: Platform",
+        "SaaS: Software"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Cloud Architecture Benefits",
+      "narration": "Envision scalability, reliability, cost savings",
+      "key_concepts": [
+        "Scalability",
+        "Reliability"
+      ],
+      "slide_points": [
+        "Scalable: On-demand",
+        "Reliable: Uptime",
+        "Cost: Efficient"
+      ]
+    }
+  ],
+  "conclusion": "Recall cloud architecture fundamentals",
+  "quiz_question": "What is IaaS?",
+  "quiz_answer": "Infrastructure as a Service"
+}

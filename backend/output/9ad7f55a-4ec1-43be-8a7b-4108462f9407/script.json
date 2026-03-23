@@ -1,0 +1,63 @@
+{
+  "title": "Water Cycle Basics",
+  "grade": 6,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Define Water Cycle",
+    "Explain Evaporation",
+    "Describe Condensation"
+  ],
+  "introduction": "Water Cycle: Earth's water journey",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Evaporation",
+      "narration": "Water heats up, turns to vapor",
+      "key_concepts": [
+        "Evaporation",
+        "Vapor"
+      ],
+      "slide_points": [
+        "Water heats",
+        "Turns to vapor",
+        "Rises high"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Condensation",
+      "narration": "Vapor cools, turns to liquid",
+      "key_concepts": [
+        "Condensation",
+        "Clouds"
+      ],
+      "slide_points": [
+        "Vapor cools",
+        "Turns to liquid",
+        "Forms clouds"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Precipitation",
+      "narration": "Water falls back to Earth",
+      "key_concepts": [
+        "Precipitation",
+        "Runoff"
+      ],
+      "slide_points": [
+        "Water falls",
+        "Reaches ground",
+        "Flows again"
+      ]
+    }
+  ],
+  "conclusion": "Water Cycle: continuous process",
+  "quiz_question": "What is the Water Cycle?",
+  "quiz_answer": "Evaporation, Condensation, Precipitation"
+}

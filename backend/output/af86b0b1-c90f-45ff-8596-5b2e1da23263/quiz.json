@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the purpose of the security thread in a $100 bill?",
+    "options": [
+      "A) To make the bill more decorative",
+      "B) To indicate the bill's denomination",
+      "C) To help verify the bill's authenticity",
+      "D) To make the bill more durable"
+    ],
+    "correct": "C",
+    "explanation": "The security thread is designed to glow under UV light, helping to verify that the bill is genuine."
+  },
+  {
+    "id": 2,
+    "question": "How does the security thread appear under UV light?",
+    "options": [
+      "A) It glows blue",
+      "B) It glows pink",
+      "C) It glows green",
+      "D) It does not glow at all"
+    ],
+    "correct": "B",
+    "explanation": "The security thread is designed to glow pink under UV light, which helps to verify the bill's authenticity."
+  },
+  {
+    "id": 3,
+    "question": "Where can you typically find special tools to verify security threads?",
+    "options": [
+      "A) At home",
+      "B) At the bank or store",
+      "C) At school",
+      "D) At the library"
+    ],
+    "correct": "B",
+    "explanation": "Cashiers at banks and stores often use special tools to verify the security threads on bills."
+  },
+  {
+    "id": 4,
+    "question": "What is unique about the pattern of the security thread in a $100 bill?",
+    "options": [
+      "A) It is a straight line",
+      "B) It weaves in and out of the paper",
+      "C) It is only visible under UV light",
+      "D) It is not visible at all"
+    ],
+    "correct": "B",
+    "explanation": "The security thread weaves in and out of the paper, creating a unique pattern that helps to verify the bill's authenticity."
+  },
+  {
+    "id": 5,
+    "question": "Why is it important to verify the security thread on a $100 bill?",
+    "options": [
+      "A) To check the bill's denomination",
+      "B) To check the bill's expiration date",
+      "C) To prevent counterfeiting",
+      "D) To check the bill's serial number"
+    ],
+    "correct": "C",
+    "explanation": "Verifying the security thread helps to ensure that the bill is genuine and not counterfeit."
+  }
+]

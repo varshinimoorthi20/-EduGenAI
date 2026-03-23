@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "The Water Cycle",
+    "narration": "In a world where water is life, let's dive into the water cycle.",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Define the water cycle",
+      "Explain evaporation",
+      "Describe condensation"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation",
+    "narration": "Water heats up, turns to vapor.",
+    "slide_points": [
+      "Water heats up",
+      "Turns to vapor",
+      "Rises to air"
+    ],
+    "key_concepts": [
+      "Evaporation",
+      "Transpiration"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation",
+    "narration": "Vapor cools, turns to liquid.",
+    "slide_points": [
+      "Vapor cools",
+      "Turns to liquid",
+      "Forms clouds"
+    ],
+    "key_concepts": [
+      "Condensation",
+      "Precipitation"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Precipitation",
+    "narration": "Water falls back to earth.",
+    "slide_points": [
+      "Water falls",
+      "Reaches ground",
+      "Cycle repeats"
+    ],
+    "key_concepts": [
+      "Precipitation",
+      "Runoff"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "The water cycle: evaporation, condensation, precipitation. What is the first step in the water cycle?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "What is the first step in the water cycle?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

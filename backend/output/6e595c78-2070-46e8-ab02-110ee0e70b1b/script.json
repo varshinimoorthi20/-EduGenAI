@@ -1,0 +1,63 @@
+{
+  "title": "French Revolution Basics",
+  "grade": 6,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Understand French Revolution causes",
+    "Learn key events and figures",
+    "Identify Revolution outcomes"
+  ],
+  "introduction": "Imagine a red, white, and blue diagram showing France in crisis.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Causes of Revolution",
+      "narration": "Picture a triangle: poverty, inequality, and absolute monarchy.",
+      "key_concepts": [
+        "Social hierarchy",
+        "Financial crisis"
+      ],
+      "slide_points": [
+        "King Louis XVI",
+        "Poor peasants",
+        "Tax burden"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Key Events and Figures",
+      "narration": "Visualize a timeline with Storming Bastille and Napoleon.",
+      "key_concepts": [
+        "Revolutionary wars",
+        "Napoleon's rise"
+      ],
+      "slide_points": [
+        "Bastille falls",
+        "Napoleon leads",
+        "Europe at war"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Outcomes and Legacy",
+      "narration": "See a blue, white, and red flag waving, symbolizing freedom.",
+      "key_concepts": [
+        "New constitution",
+        "Modern democracy"
+      ],
+      "slide_points": [
+        "Liberty equality",
+        "New France born",
+        "Europe changes"
+      ]
+    }
+  ],
+  "conclusion": "Recall the French Revolution's impact on modern history.",
+  "quiz_question": "What was the main cause of the French Revolution?",
+  "quiz_answer": "Financial crisis and social inequality"
+}

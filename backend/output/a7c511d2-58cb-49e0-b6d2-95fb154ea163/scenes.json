@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Photosynthesis Basics",
+    "narration": "Welcome to Photosynthesis!",
+    "slide_points": [
+      "Grade 4 Lesson",
+      "Define Photosynthesis",
+      "Identify Key Components",
+      "Understand Process"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "What is Photosynthesis",
+    "narration": "Photosynthesis: plants make food",
+    "slide_points": [
+      "Plants Make Food",
+      "Use Sunlight",
+      "Need Water"
+    ],
+    "key_concepts": [
+      "Plants",
+      "Sunlight"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Process of Photosynthesis",
+    "narration": "Plants use sunlight to grow",
+    "slide_points": [
+      "Use Chlorophyll",
+      "Absorb CO2",
+      "Release O2"
+    ],
+    "key_concepts": [
+      "Chlorophyll",
+      "Carbon Dioxide"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Importance of Photosynthesis",
+    "narration": "Photosynthesis helps us breathe",
+    "slide_points": [
+      "Produce Oxygen",
+      "Support Life",
+      "Food Source"
+    ],
+    "key_concepts": [
+      "Oxygen",
+      "Food Chain"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Photosynthesis is essential What do plants need for photosynthesis?",
+    "slide_points": [
+      "Key Takeaways",
+      "What is Photosynthesis",
+      "Process of Photosynthesis",
+      "Importance of Photosynthesis",
+      "What do plants need for photosynthesis?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

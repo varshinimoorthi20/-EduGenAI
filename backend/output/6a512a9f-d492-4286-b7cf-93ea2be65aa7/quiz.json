@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to the water in the ocean, lakes, and rivers when the sun heats it?",
+    "options": [
+      "A) It freezes",
+      "B) It turns into water vapor",
+      "C) It stays the same",
+      "D) It disappears"
+    ],
+    "correct": "B",
+    "explanation": "The sun's heat turns the water into water vapor, which rises into the air."
+  },
+  {
+    "id": 2,
+    "question": "What forms when water vapor cools down in the sky?",
+    "options": [
+      "A) Rain",
+      "B) Snow",
+      "C) White, puffy clouds",
+      "D) Stormy weather"
+    ],
+    "correct": "C",
+    "explanation": "As water vapor cools, it condenses into tiny droplets, forming white, puffy clouds."
+  },
+  {
+    "id": 3,
+    "question": "What happens to the clouds when they get too heavy with water?",
+    "options": [
+      "A) They disappear",
+      "B) They stay the same",
+      "C) They get lighter",
+      "D) The droplets fall to the ground as precipitation"
+    ],
+    "correct": "D",
+    "explanation": "When the clouds get too heavy with water, the droplets fall to the ground as precipitation, like rain or snow."
+  },
+  {
+    "id": 4,
+    "question": "What is another name for water falling to the ground from the clouds?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Precipitation",
+      "D) Transpiration"
+    ],
+    "correct": "C",
+    "explanation": "Precipitation is another name for water falling to the ground from the clouds, such as rain or snow."
+  },
+  {
+    "id": 5,
+    "question": "Why is the water cycle important for our planet?",
+    "options": [
+      "A) It makes the weather colder",
+      "B) It makes the weather hotter",
+      "C) It nourishes our planet",
+      "D) It harms our planet"
+    ],
+    "correct": "C",
+    "explanation": "The water cycle is important because it nourishes our planet, providing water for plants, animals, and humans."
+  }
+]

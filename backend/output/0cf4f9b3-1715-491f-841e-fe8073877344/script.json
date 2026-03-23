@@ -1,0 +1,60 @@
+{
+  "title": "Water Cycle Explained",
+  "grade": 7,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "example",
+  "learning_objectives": [
+    "Understand water cycle process",
+    "Identify key stages of water cycle",
+    "Relate water cycle to real life"
+  ],
+  "introduction": "Imagine a trip around the world in water droplets",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Evaporation",
+      "narration": "Water from oceans, lakes, and rivers evaporates into the air like water from a hot cup on a cold day",
+      "key_concepts": [
+        "Evaporation",
+        "Water vapor"
+      ],
+      "slide_points": [
+        "Oceans",
+        "Lakes",
+        "Rivers"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Condensation",
+      "narration": "As water vapor rises, it cools down and forms clouds, similar to how breath fogs up a mirror",
+      "key_concepts": [
+        "Condensation",
+        "Clouds"
+      ],
+      "slide_points": [
+        "Clouds",
+        "Fog",
+        "Mist"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Precipitation",
+      "narration": "When clouds get too heavy with water, they release it back to Earth as rain or snow, just like an overflowing bucket",
+      "key_concepts": [
+        "Precipitation",
+        "Runoff"
+      ],
+      "slide_points": [
+        "Rain",
+        "Snow",
+        "Hail"
+      ]
+    }
+  ],
+  "conclusion": "Water cycle repeats, keeping our planet full of life",
+  "quiz_question": "What is the first stage of the water cycle?",
+  "quiz_answer": "Evaporation"
+}

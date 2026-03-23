@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What type of animals are whales?",
+    "options": [
+      "A) Fish",
+      "B) Mammals",
+      "C) Reptiles",
+      "D) Birds"
+    ],
+    "correct": "B",
+    "explanation": "Whales are warm-blooded mammals."
+  },
+  {
+    "id": 2,
+    "question": "Where do whales live?",
+    "options": [
+      "A) In rivers",
+      "B) In oceans worldwide",
+      "C) On land",
+      "D) In lakes"
+    ],
+    "correct": "B",
+    "explanation": "Whales live in oceans all around the world."
+  },
+  {
+    "id": 3,
+    "question": "What are the two main types of whales?",
+    "options": [
+      "A) Big and small",
+      "B) Toothed and baleen",
+      "C) Fast and slow",
+      "D) Old and young"
+    ],
+    "correct": "B",
+    "explanation": "The two main types of whales are toothed and baleen."
+  },
+  {
+    "id": 4,
+    "question": "What is unique about toothed whales?",
+    "options": [
+      "A) They have four legs",
+      "B) They have gills",
+      "C) They have teeth",
+      "D) They have wings"
+    ],
+    "correct": "C",
+    "explanation": "Toothed whales have teeth, which they use to catch and eat their prey."
+  },
+  {
+    "id": 5,
+    "question": "What do baleen whales use to eat?",
+    "options": [
+      "A) Their teeth",
+      "B) Their fins",
+      "C) Their baleen plates",
+      "D) Their tails"
+    ],
+    "correct": "C",
+    "explanation": "Baleen whales use their baleen plates to filter small fish and plankton from the water."
+  }
+]

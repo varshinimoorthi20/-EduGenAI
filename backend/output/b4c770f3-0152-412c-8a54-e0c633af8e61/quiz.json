@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to water in oceans, lakes, and rivers when the sun heats it?",
+    "options": [
+      "A) It turns into ice",
+      "B) It turns into water vapor",
+      "C) It stays the same",
+      "D) It disappears"
+    ],
+    "correct": "B",
+    "explanation": "The sun's heat energy turns water into water vapor, which rises into the air."
+  },
+  {
+    "id": 2,
+    "question": "What happens to water vapor as it rises into the air?",
+    "options": [
+      "A) It gets hotter",
+      "B) It stays the same temperature",
+      "C) It cools down",
+      "D) It turns into a solid"
+    ],
+    "correct": "C",
+    "explanation": "As water vapor rises, it cools down, similar to when you breathe onto a cold window and it fogs up."
+  },
+  {
+    "id": 3,
+    "question": "What forms when water vapor cools down in the air?",
+    "options": [
+      "A) Rain",
+      "B) Snow",
+      "C) Clouds",
+      "D) Hail"
+    ],
+    "correct": "C",
+    "explanation": "Clouds form when water vapor cools down and condenses into tiny droplets of water."
+  },
+  {
+    "id": 4,
+    "question": "What happens to clouds when they get too heavy with water?",
+    "options": [
+      "A) They disappear",
+      "B) They stay the same",
+      "C) They release water back to earth as rain or snow",
+      "D) They turn into ice"
+    ],
+    "correct": "C",
+    "explanation": "When clouds get too heavy with water, they release it back to earth as rain or snow."
+  },
+  {
+    "id": 5,
+    "question": "What is the process called when water moves from the earth to the air and back to the earth again?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) The Water Cycle",
+      "D) Photosynthesis"
+    ],
+    "correct": "C",
+    "explanation": "The Water Cycle is the process by which water moves from the earth to the air and back to the earth again, involving evaporation, condensation, and precipitation."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What were the main issues that led to the French Revolution?",
+    "options": [
+      "A) Poverty, inequality, and absolute monarchy",
+      "B) Slavery, racism, and sexism",
+      "C) Unemployment, corruption, and pollution",
+      "D) Climate change, overpopulation, and famine"
+    ],
+    "correct": "A",
+    "explanation": "The French Revolution was primarily caused by the triangle of poverty, inequality, and absolute monarchy."
+  },
+  {
+    "id": 2,
+    "question": "What significant event marked the beginning of the French Revolution?",
+    "options": [
+      "A) Execution of King Louis XVI",
+      "B) Storming of the Bastille",
+      "C) Coronation of Napoleon",
+      "D) Battle of Waterloo"
+    ],
+    "correct": "B",
+    "explanation": "The Storming of the Bastille on July 14, 1789, marked the beginning of the French Revolution."
+  },
+  {
+    "id": 3,
+    "question": "What do the colors of the French flag represent?",
+    "options": [
+      "A) Blue for royalty, white for peace, and red for war",
+      "B) Blue for freedom, white for equality, and red for fraternity",
+      "C) Blue for the sky, white for the earth, and red for the sun",
+      "D) Blue for the ocean, white for the mountains, and red for the forests"
+    ],
+    "correct": "B",
+    "explanation": "The colors of the French flag represent the ideals of the French Revolution: freedom (blue), equality (white), and fraternity (red)."
+  },
+  {
+    "id": 4,
+    "question": "Who rose to power during the French Revolution?",
+    "options": [
+      "A) King Louis XVI",
+      "B) Maximilien Robespierre",
+      "C) Napoleon Bonaparte",
+      "D) King George III"
+    ],
+    "correct": "C",
+    "explanation": "Napoleon Bonaparte rose to power during the French Revolution and became the Emperor of France."
+  },
+  {
+    "id": 5,
+    "question": "What shape can be used to represent the main causes of the French Revolution?",
+    "options": [
+      "A) Circle",
+      "B) Square",
+      "C) Triangle",
+      "D) Rectangle"
+    ],
+    "correct": "C",
+    "explanation": "A triangle can be used to represent the main causes of the French Revolution: poverty, inequality, and absolute monarchy."
+  }
+]

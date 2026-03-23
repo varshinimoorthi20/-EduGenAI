@@ -1,0 +1,54 @@
+{
+  "revision_title": "Quick Revision: Python Programming Essentials",
+  "key_definitions": [
+    {
+      "term": "Indentation",
+      "definition": "Matters in Python code"
+    },
+    {
+      "term": "Variables",
+      "definition": "Store data values"
+    },
+    {
+      "term": "Comments",
+      "definition": "Explain code purpose"
+    }
+  ],
+  "important_concepts": [
+    "Indentation",
+    "Data Types",
+    "Control Structures"
+  ],
+  "bullet_summaries": [
+    {
+      "scene": "Python Basics",
+      "points": [
+        "Store data",
+        "Use comments"
+      ]
+    },
+    {
+      "scene": "Data Types",
+      "points": [
+        "Ints are numbers",
+        "Strings are text"
+      ]
+    },
+    {
+      "scene": "Control Structures",
+      "points": [
+        "If checks",
+        "Loops repeat"
+      ]
+    }
+  ],
+  "important_terms": [
+    "Integers",
+    "Strings",
+    "Boolean"
+  ],
+  "formulas_or_rules": [
+    "If-else",
+    "Loop repetition"
+  ]
+}

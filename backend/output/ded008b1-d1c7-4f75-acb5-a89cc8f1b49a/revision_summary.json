@@ -1,0 +1,49 @@
+{
+  "revision_title": "Quick Revision: Human Digestive System",
+  "key_definitions": [
+    {
+      "term": "Digestion",
+      "definition": "Breaking down food into nutrients"
+    },
+    {
+      "term": "Absorption",
+      "definition": "Taking in nutrients by body"
+    }
+  ],
+  "important_concepts": [
+    "Mouth",
+    "Stomach",
+    "Intestine"
+  ],
+  "bullet_summaries": [
+    {
+      "scene": "Mouth and Esophagus",
+      "points": [
+        "Chew",
+        "Swallow"
+      ]
+    },
+    {
+      "scene": "Stomach and Small Intestine",
+      "points": [
+        "Acid",
+        "Absorb"
+      ]
+    },
+    {
+      "scene": "Large Intestine",
+      "points": [
+        "Water",
+        "Eliminate"
+      ]
+    }
+  ],
+  "important_terms": [
+    "Enzymes",
+    "Acids",
+    "Electrolytes"
+  ],
+  "formulas_or_rules": [
+    "Chew-Swallow-Absorb-Eliminate"
+  ]
+}

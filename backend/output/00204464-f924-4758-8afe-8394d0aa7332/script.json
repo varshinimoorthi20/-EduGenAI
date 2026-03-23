@@ -1,0 +1,60 @@
+{
+  "title": "Introduction to IAM Architecture",
+  "grade": 12,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "example",
+  "learning_objectives": [
+    "Understand IAM concepts",
+    "Identify IAM components",
+    "Apply IAM in real-world"
+  ],
+  "introduction": "Imagine a school with secure access control, that's IAM",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Real-World Analogy",
+      "narration": "Consider a school with locked doors, only authorized staff and students can enter, similar to how IAM works in organizations",
+      "key_concepts": [
+        "Access Control",
+        "Authentication"
+      ],
+      "slide_points": [
+        "Secure Doors",
+        "Authorized Access",
+        "Locked Gates"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "IAM Components",
+      "narration": "Just like a school has a principal, teachers, and students, IAM has its own set of components like identity providers and service providers",
+      "key_concepts": [
+        "Identity Provider",
+        "Service Provider"
+      ],
+      "slide_points": [
+        "IDP",
+        "SP",
+        "Users"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "IAM in Action",
+      "narration": "When you log in to your school's network, IAM is working behind the scenes to verify your identity and grant access to authorized resources",
+      "key_concepts": [
+        "Authentication Flow",
+        "Authorization"
+      ],
+      "slide_points": [
+        "Login",
+        "Verify",
+        "Access"
+      ]
+    }
+  ],
+  "conclusion": "In conclusion, IAM architecture is like a secure school, controlling access and ensuring only authorized individuals can enter",
+  "quiz_question": "What is the main purpose of IAM?",
+  "quiz_answer": "To control and manage access to resources"
+}

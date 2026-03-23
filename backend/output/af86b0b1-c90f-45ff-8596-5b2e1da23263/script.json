@@ -1,0 +1,58 @@
+{
+  "title": "Security Threads",
+  "grade": 8,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "visual",
+  "learning_objectives": [
+    "Identify security threads",
+    "Explain thread purpose",
+    "Recognize thread patterns"
+  ],
+  "introduction": "Imagine a red thread weaving through a dollar bill, indicating it's real.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Security Thread Basics",
+      "narration": "Look at this diagram of a $100 bill, notice the security thread, a thin line that glows pink under UV light, indicating authenticity.",
+      "key_concepts": [
+        "Security threads",
+        "Authentication"
+      ],
+      "slide_points": [
+        "Red thread",
+        "Glows pink",
+        "UV light"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Thread Patterns",
+      "narration": "Observe how the thread weaves in and out of the paper, creating a unique pattern, like a blue line moving up and down.",
+      "key_concepts": [
+        "Thread patterns",
+        "Unique design"
+      ],
+      "slide_points": [
+        "Blue line",
+        "Up and down"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Real-World Examples",
+      "narration": "Think about all the times you've seen security threads in action, like at the bank or store, where cashiers use special tools to verify the threads.",
+      "key_concepts": [
+        "Real-world applications",
+        "Verification tools"
+      ],
+      "slide_points": [
+        "Bank verification",
+        "Special tools"
+      ]
+    }
+  ],
+  "conclusion": "Remember, security threads are like hidden guardians, protecting our money from counterfeiters.",
+  "quiz_question": "What color does the security thread glow under UV light?",
+  "quiz_answer": "Pink"
+}

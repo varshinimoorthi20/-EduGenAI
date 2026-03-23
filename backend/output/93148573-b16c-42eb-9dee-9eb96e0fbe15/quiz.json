@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of using variables in Python programming?",
+    "options": [
+      "A) To store and manipulate data",
+      "B) To create loops and conditional statements",
+      "C) To define functions and modules",
+      "D) To generate graphical user interfaces"
+    ],
+    "correct": "A",
+    "explanation": "Variables are used to store and manipulate data in Python programming, making it easier to write and maintain code."
+  },
+  {
+    "id": 2,
+    "question": "Which data type is used to represent a whole number in Python?",
+    "options": [
+      "A) Float",
+      "B) Integer",
+      "C) String",
+      "D) Boolean"
+    ],
+    "correct": "B",
+    "explanation": "Integers are whole numbers, either positive, negative, or zero, and are used to represent whole numbers in Python."
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of the 'if-else' statement in Python?",
+    "options": [
+      "A) To create loops and iterate over data",
+      "B) To define functions and modules",
+      "C) To make decisions based on conditions and execute different blocks of code",
+      "D) To generate graphical user interfaces"
+    ],
+    "correct": "C",
+    "explanation": "The 'if-else' statement is used to make decisions based on conditions and execute different blocks of code, allowing for more complex and dynamic programming."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of a string data type in Python?",
+    "options": [
+      "A) 123",
+      "B) 45.67",
+      "C) 'Hello World'",
+      "D) True"
+    ],
+    "correct": "C",
+    "explanation": "Strings are sequences of characters, such as words or sentences, and are enclosed in quotes in Python."
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of a flowchart in programming?",
+    "options": [
+      "A) To write the actual code",
+      "B) To design and visualize the program's logic and workflow",
+      "C) To test and debug the program",
+      "D) To document the program's code"
+    ],
+    "correct": "B",
+    "explanation": "A flowchart is a visual representation of a program's logic and workflow, helping programmers to design, plan, and understand the program's structure and sequence of events."
+  }
+]

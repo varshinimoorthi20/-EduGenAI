@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTTPS stand for?",
+    "options": [
+      "A) Hypertext Transfer Protocol",
+      "B) Hypertext Transfer Protocol Secure",
+      "C) Hyperlink Transfer Protocol Secure",
+      "D) Hyperlink Transfer Protocol"
+    ],
+    "correct": "B",
+    "explanation": "HTTPS is an extension of HTTP that provides a secure connection."
+  },
+  {
+    "id": 2,
+    "question": "What happens when you visit an HTTPS website?",
+    "options": [
+      "A) Your browser and the website exchange usernames and passwords",
+      "B) Your browser and the website perform a 'handshake' to create a secure connection",
+      "C) Your browser and the website create a new network",
+      "D) Your browser and the website disable encryption"
+    ],
+    "correct": "B",
+    "explanation": "The 'handshake' involves exchanging cryptographic keys to create a secure, encrypted connection."
+  },
+  {
+    "id": 3,
+    "question": "Why is HTTPS important?",
+    "options": [
+      "A) It increases the speed of your internet connection",
+      "B) It protects your personal data from being intercepted by hackers",
+      "C) It allows you to access more websites",
+      "D) It disables your browser's cache"
+    ],
+    "correct": "B",
+    "explanation": "HTTPS protects your personal data, like passwords and credit card numbers, from being intercepted by hackers."
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of the 'handshake' in HTTPS?",
+    "options": [
+      "A) To exchange usernames and passwords",
+      "B) To create a new network",
+      "C) To disable encryption",
+      "D) To exchange cryptographic keys and create a secure connection"
+    ],
+    "correct": "D",
+    "explanation": "The 'handshake' involves exchanging cryptographic keys to create a secure, encrypted connection."
+  },
+  {
+    "id": 5,
+    "question": "What type of activities does HTTPS help prevent?",
+    "options": [
+      "A) Malicious activities like hacking and eavesdropping",
+      "B) Legitimate activities like online shopping",
+      "C) Network activities like file sharing",
+      "D) Browser activities like caching"
+    ],
+    "correct": "A",
+    "explanation": "HTTPS helps prevent malicious activities, like eavesdropping and hacking, by protecting your personal data."
+  }
+]

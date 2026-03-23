@@ -1,0 +1,64 @@
+{
+  "revision_title": "Quick Revision: Cloud Architecture Essentials",
+  "key_definitions": [
+    {
+      "term": "Public Cloud",
+      "definition": "Shared cloud resources"
+    },
+    {
+      "term": "Private Cloud",
+      "definition": "Secure cloud resources"
+    },
+    {
+      "term": "IaaS",
+      "definition": "Infrastructure as a service"
+    },
+    {
+      "term": "PaaS",
+      "definition": "Platform as a service"
+    },
+    {
+      "term": "SaaS",
+      "definition": "Software as a service"
+    }
+  ],
+  "important_concepts": [
+    "Scalability",
+    "Reliability",
+    "Hybrid"
+  ],
+  "bullet_summaries": [
+    {
+      "scene": "Cloud Deployment",
+      "points": [
+        "Public",
+        "Private",
+        "Hybrid"
+      ]
+    },
+    {
+      "scene": "Cloud Service",
+      "points": [
+        "IaaS",
+        "PaaS",
+        "SaaS"
+      ]
+    },
+    {
+      "scene": "Cloud Benefits",
+      "points": [
+        "Scalable",
+        "Reliable",
+        "Efficient"
+      ]
+    }
+  ],
+  "important_terms": [
+    "Cloud",
+    "Scalability",
+    "Uptime"
+  ],
+  "formulas_or_rules": [
+    "On-demand scaling"
+  ]
+}

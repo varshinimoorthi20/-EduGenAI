@@ -1,0 +1,77 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Security Threads",
+    "narration": "Imagine a red thread weaving through a dollar bill, indicating it's real.",
+    "slide_points": [
+      "Grade 8 Lesson",
+      "Identify security threads",
+      "Explain thread purpose",
+      "Recognize thread patterns"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Security Thread Basics",
+    "narration": "Look at this diagram of a $100 bill, notice the security thread, a thin line that glows pink under UV light, indicating authenticity.",
+    "slide_points": [
+      "Red thread",
+      "Glows pink",
+      "UV light"
+    ],
+    "key_concepts": [
+      "Security threads",
+      "Authentication"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Thread Patterns",
+    "narration": "Observe how the thread weaves in and out of the paper, creating a unique pattern, like a blue line moving up and down.",
+    "slide_points": [
+      "Blue line",
+      "Up and down"
+    ],
+    "key_concepts": [
+      "Thread patterns",
+      "Unique design"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Real-World Examples",
+    "narration": "Think about all the times you've seen security threads in action, like at the bank or store, where cashiers use special tools to verify the threads.",
+    "slide_points": [
+      "Bank verification",
+      "Special tools"
+    ],
+    "key_concepts": [
+      "Real-world applications",
+      "Verification tools"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Remember, security threads are like hidden guardians, protecting our money from counterfeiters. What color does the security thread glow under UV light?",
+    "slide_points": [
+      "Key Takeaways",
+      "Security Thread Basics",
+      "Thread Patterns",
+      "Real-World Examples",
+      "What color does the security thread glow under UV light?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

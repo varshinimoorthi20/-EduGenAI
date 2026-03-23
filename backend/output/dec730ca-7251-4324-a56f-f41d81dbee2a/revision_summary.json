@@ -1,0 +1,53 @@
+{
+  "revision_title": "Quick Revision: Photosynthesis Basics",
+  "key_definitions": [
+    {
+      "term": "Photosynthesis",
+      "definition": "Plants making food using light energy"
+    },
+    {
+      "term": "Chlorophyll",
+      "definition": "Helps plants absorb light energy"
+    },
+    {
+      "term": "Oxygen Production",
+      "definition": "Releasing oxygen as a byproduct"
+    }
+  ],
+  "important_concepts": [
+    "Light Energy",
+    "Chlorophyll",
+    "Oxygen Production"
+  ],
+  "bullet_summaries": [
+    {
+      "scene": "What is Photosynthesis",
+      "points": [
+        "Plants make food",
+        "Use light energy"
+      ]
+    },
+    {
+      "scene": "The Process",
+      "points": [
+        "Water absorbed",
+        "CO2 used"
+      ]
+    },
+    {
+      "scene": "Importance",
+      "points": [
+        "O2 for life",
+        "Food for plants"
+      ]
+    }
+  ],
+  "important_terms": [
+    "Chlorophyll",
+    "Oxygen",
+    "Carbon Dioxide"
+  ],
+  "formulas_or_rules": [
+    "6CO2 + 6H2O = C6H12O6 + 6O2"
+  ]
+}

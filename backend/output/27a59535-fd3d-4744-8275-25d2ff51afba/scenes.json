@@ -1,0 +1,76 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Algebra Basics",
+    "narration": "Imagine you have a secret box with a hidden number.",
+    "slide_points": [
+      "Grade 5 Lesson",
+      "Understand variables",
+      "Learn basic equations",
+      "Solve simple problems"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Variables",
+    "narration": "We use letters like x to represent the secret number.",
+    "slide_points": [
+      "x is a variable",
+      "Represents a number"
+    ],
+    "key_concepts": [
+      "Variables",
+      "Letters"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Equations",
+    "narration": "An equation is like a balance scale with numbers and letters on each side.",
+    "slide_points": [
+      "2x is equal",
+      "To a number"
+    ],
+    "key_concepts": [
+      "Equations",
+      "Balance"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Solving",
+    "narration": "We can solve the equation by finding the secret number that makes it true.",
+    "slide_points": [
+      "Find the value",
+      "Of x"
+    ],
+    "key_concepts": [
+      "Solving",
+      "Secret number"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Now you know the basics of algebra, it's like solving a fun puzzle! What does the letter x represent in algebra?",
+    "slide_points": [
+      "Key Takeaways",
+      "Variables",
+      "Equations",
+      "Solving",
+      "What does the letter x represent in algebra?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

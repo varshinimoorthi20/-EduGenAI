@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to water from oceans, lakes, and rivers in the first stage of the water cycle?",
+    "options": [
+      "A) It freezes into ice",
+      "B) It evaporates into the air as water vapor",
+      "C) It flows over the surface as runoff",
+      "D) It infiltrates the soil to recharge groundwater"
+    ],
+    "correct": "B",
+    "explanation": "Water from oceans, lakes, and rivers evaporates into the air as water vapor, forming clouds."
+  },
+  {
+    "id": 2,
+    "question": "What forms when water vapor cools down in the clouds?",
+    "options": [
+      "A) Runoff",
+      "B) Groundwater",
+      "C) Precipitation",
+      "D) Evaporation"
+    ],
+    "correct": "C",
+    "explanation": "As water vapor cools down in the clouds, it condenses into tiny droplets, forming precipitation."
+  },
+  {
+    "id": 3,
+    "question": "What is the term for water flowing over the surface after precipitation reaches the ground?",
+    "options": [
+      "A) Infiltration",
+      "B) Condensation",
+      "C) Evaporation",
+      "D) Runoff"
+    ],
+    "correct": "D",
+    "explanation": "Once the precipitation reaches the ground, it either flows over the surface as runoff or infiltrates the soil to recharge groundwater."
+  },
+  {
+    "id": 4,
+    "question": "What happens to some of the precipitation that reaches the ground?",
+    "options": [
+      "A) It all flows over the surface as runoff",
+      "B) It all infiltrates the soil to recharge groundwater",
+      "C) It gets stored in clouds",
+      "D) It infiltrates the soil to recharge groundwater or flows over the surface as runoff"
+    ],
+    "correct": "D",
+    "explanation": "Once the precipitation reaches the ground, it either flows over the surface as runoff or infiltrates the soil to recharge groundwater."
+  },
+  {
+    "id": 5,
+    "question": "What is the process called when water vapor turns back into liquid water in the clouds?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Runoff",
+      "D) Infiltration"
+    ],
+    "correct": "B",
+    "explanation": "As water vapor cools down in the clouds, it condenses into tiny droplets, forming precipitation."
+  }
+]

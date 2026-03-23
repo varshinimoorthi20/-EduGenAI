@@ -1,0 +1,63 @@
+{
+  "title": "French Revolution Basics",
+  "grade": 6,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "example",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Understand French Revolution",
+    "Identify key events",
+    "Recognize major figures"
+  ],
+  "introduction": "France in crisis, change ahead",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Causes of Revolution",
+      "narration": "Financial crisis, social unrest",
+      "key_concepts": [
+        "Liberty",
+        "Equality"
+      ],
+      "slide_points": [
+        "Poor economy",
+        "Social classes",
+        "Tax burden"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Key Events",
+      "narration": "Storming Bastille, royal flight",
+      "key_concepts": [
+        "Revolution starts",
+        "Monarchy falls"
+      ],
+      "slide_points": [
+        "Bastille falls",
+        "King flees",
+        "Republic born"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Major Figures",
+      "narration": "Napoleon rises, new era",
+      "key_concepts": [
+        "Napoleon",
+        "Leadership"
+      ],
+      "slide_points": [
+        "Napoleon leads",
+        "New constitution",
+        "Empire expands"
+      ]
+    }
+  ],
+  "conclusion": "Revolution's lasting impact",
+  "quiz_question": "What sparked the French Revolution?",
+  "quiz_answer": "Financial crisis and social unrest"
+}

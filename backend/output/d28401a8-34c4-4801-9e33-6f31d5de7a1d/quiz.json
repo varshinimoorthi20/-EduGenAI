@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What was one of the main causes of the French Revolution?",
+    "options": [
+      "A) Foreign invasion",
+      "B) Financial crisis",
+      "C) Natural disasters",
+      "D) Religious wars"
+    ],
+    "correct": "B",
+    "explanation": "The French Revolution was partly caused by a financial crisis that led to social unrest and discontent among the population."
+  },
+  {
+    "id": 2,
+    "question": "Which event marked the beginning of the French Revolution?",
+    "options": [
+      "A) Execution of King Louis XVI",
+      "B) Storming of the Bastille",
+      "C) Rise of Napoleon",
+      "D) End of the monarchy"
+    ],
+    "correct": "B",
+    "explanation": "The Storming of the Bastille on July 14, 1789, is considered the starting point of the French Revolution."
+  },
+  {
+    "id": 3,
+    "question": "What was the result of the royal family's flight to Varennes?",
+    "options": [
+      "A) They were welcomed as heroes",
+      "B) They were able to escape to England",
+      "C) They were recognized and arrested",
+      "D) They were able to raise an army"
+    ],
+    "correct": "C",
+    "explanation": "The royal family's attempt to flee France in disguise was unsuccessful, and they were recognized and arrested at Varennes."
+  },
+  {
+    "id": 4,
+    "question": "Who rose to power during the later stages of the French Revolution?",
+    "options": [
+      "A) King Louis XVI",
+      "B) Maximilien Robespierre",
+      "C) Napoleon Bonaparte",
+      "D) Georges Danton"
+    ],
+    "correct": "C",
+    "explanation": "Napoleon Bonaparte, a successful military general, seized power in a coup d'etat in 1799 and became the ruler of France."
+  },
+  {
+    "id": 5,
+    "question": "What marked the end of the French Revolution and the beginning of a new era in French history?",
+    "options": [
+      "A) The execution of King Louis XVI",
+      "B) The rise of the Directory",
+      "C) The reign of Napoleon Bonaparte",
+      "D) The restoration of the monarchy"
+    ],
+    "correct": "C",
+    "explanation": "The rise of Napoleon Bonaparte marked the end of the French Revolution and the beginning of the Napoleonic Empire, a new era in French history."
+  }
+]

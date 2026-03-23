@@ -1,0 +1,76 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "The Water Cycle Explained",
+    "narration": "Imagine a drop of water falling from a cloud, where does it go?",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Understand water cycle process",
+      "Identify key stages",
+      "Relate to real-life"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation",
+    "narration": "Like when you take a hot shower and the mirror fogs up, the sun heats water in oceans, lakes, and rivers, turning it into water vapor",
+    "slide_points": [
+      "Sun heats water",
+      "Water turns vapor"
+    ],
+    "key_concepts": [
+      "Evaporation",
+      "Water vapor"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation",
+    "narration": "As water vapor rises, it cools down, like when you breathe onto a cold window and it fogs up, forming clouds",
+    "slide_points": [
+      "Vapor cools down",
+      "Clouds are formed"
+    ],
+    "key_concepts": [
+      "Condensation",
+      "Clouds form"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Precipitation",
+    "narration": "When clouds get too heavy with water, they release it back to earth as rain or snow, like when you see rain falling from the sky",
+    "slide_points": [
+      "Clouds get heavy",
+      "Rain falls down"
+    ],
+    "key_concepts": [
+      "Precipitation",
+      "Rain and snow"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "The water cycle is like a big circle, water keeps moving and changing forms What happens to water when it evaporates?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "What happens to water when it evaporates?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

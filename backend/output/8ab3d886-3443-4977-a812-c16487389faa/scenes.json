@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Water Cycle Adventure",
+    "narration": "Imagine a big blue circle, that's our water cycle!",
+    "slide_points": [
+      "Grade 2 Lesson",
+      "Understand evaporation",
+      "Learn condensation",
+      "Know precipitation"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation",
+    "narration": "The sun heats the ocean, making water rise like a blue bubble",
+    "slide_points": [
+      "Sun heats",
+      "Water rises",
+      "Blue bubble"
+    ],
+    "key_concepts": [
+      "Sun heats water",
+      "Water turns to vapor"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation",
+    "narration": "Vapor cools down, forming white fluffy clouds like cotton balls",
+    "slide_points": [
+      "Vapor cools",
+      "Clouds grow",
+      "White and fluffy"
+    ],
+    "key_concepts": [
+      "Vapor cools",
+      "Clouds form"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Precipitation",
+    "narration": "Clouds get heavy, releasing water droplets like a green umbrella",
+    "slide_points": [
+      "Clouds heavy",
+      "Rain falls",
+      "Green umbrella"
+    ],
+    "key_concepts": [
+      "Clouds get heavy",
+      "Rain falls"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "And that's our water cycle journey, a big blue circle of water, sun, and clouds! What makes the water rise from the ocean?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "What makes the water rise from the ocean?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

@@ -1,0 +1,21 @@
+# ── AI Provider ───────────────────────────────────────────────────────────────
+AI_PROVIDER=groq
+GROQ_API_KEY=gsk_your_groq_key_here
+
+# ── Voice ─────────────────────────────────────────────────────────────────────
+VOICE_PROVIDER=gtts
+
+# ── Auth ──────────────────────────────────────────────────────────────────────
+SECRET_KEY=change-this-to-any-random-string
+
+# ── Google OAuth ──────────────────────────────────────────────────────────────
+
+GOOGLE_CLIENT_SECRET=199413542457-vebkj8e8g4eq94tov1813790u3e2c4hb.apps.googleusercontent.com
+GOOGLE_CLIENT_ID=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
+FRONTEND_URL=http://localhost:3000
+
+# ── Database ──────────────────────────────────────────────────────────────────
+DATABASE_URL=sqlite+aiosqlite:///./edugenai.db
+
+# ── Output ───────────────────────────────────────────────────────────────────
+OUTPUT_DIR=output

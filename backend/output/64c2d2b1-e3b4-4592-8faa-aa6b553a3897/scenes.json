@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Understanding HTTPS",
+    "narration": "Imagine sending a secret letter, but instead of using a physical envelope, you're using the internet. How can you keep your message private? This is where HTTPS comes in, a secure way to communicate online.",
+    "slide_points": [
+      "Grade 8 Lesson",
+      "Explain HTTPS basics",
+      "Describe encryption process",
+      "Identify benefits of HTTPS"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Introduction to HTTPS",
+    "narration": "HTTPS, or Hypertext Transfer Protocol Secure, is an extension of HTTP. It's like a secure, locked box that protects the data being sent between your browser and the website you're visiting. Think of it like a green lock icon in your browser's address bar, indicating that your connection is secure.",
+    "slide_points": [
+      "HTTP",
+      "HTTPS",
+      "Secure"
+    ],
+    "key_concepts": [
+      "HTTP",
+      "HTTPS"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Encryption Process",
+    "narration": "When you visit an HTTPS website, your browser and the website perform a 'handshake'. This involves exchanging cryptographic keys to create a secure, encrypted connection. It's like exchanging a secret password, but using complex math and algorithms to keep it safe.",
+    "slide_points": [
+      "Browser",
+      "Website",
+      "Keys"
+    ],
+    "key_concepts": [
+      "Encryption",
+      "Decryption"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Benefits of HTTPS",
+    "narration": "So, why is HTTPS important? It protects your personal data, like passwords and credit card numbers, from being intercepted by hackers. It also helps prevent malicious activities, like eavesdropping and tampering. Think of it like having a bodyguard for your online activities.",
+    "slide_points": [
+      "Protects",
+      "Data",
+      "Secure"
+    ],
+    "key_concepts": [
+      "Security",
+      "Privacy"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "In conclusion, HTTPS is like a shield for your online activities, protecting your data and keeping it private. Remember, whenever you see that green lock icon, you know your connection is secure. What does the 'S' in HTTPS stand for?",
+    "slide_points": [
+      "Key Takeaways",
+      "Introduction to HTTPS",
+      "Encryption Process",
+      "Benefits of HTTPS",
+      "What does the 'S' in HTTPS stand for?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "title": "Human Digestive System",
+  "grade": 6,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Define digestion",
+    "Identify key organs",
+    "Describe nutrient absorption"
+  ],
+  "introduction": "Imagine a long, winding road for food",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Mouth and Esophagus",
+      "narration": "Food enters mouth, mixed with saliva",
+      "key_concepts": [
+        "Mouth",
+        "Esophagus"
+      ],
+      "slide_points": [
+        "Teeth chew food",
+        "Saliva adds enzymes",
+        "Swallowing occurs"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Stomach and Small Intestine",
+      "narration": "Stomach acids break down food",
+      "key_concepts": [
+        "Stomach",
+        "Small intestine"
+      ],
+      "slide_points": [
+        "Acids break down",
+        "Nutrients absorbed",
+        "Waste moves on"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Large Intestine and Absorption",
+      "narration": "Water absorbed, waste prepared",
+      "key_concepts": [
+        "Large intestine",
+        "Absorption"
+      ],
+      "slide_points": [
+        "Water absorbed",
+        "Electrolytes balanced",
+        "Waste eliminated"
+      ]
+    }
+  ],
+  "conclusion": "Digestion complete, nutrients absorbed",
+  "quiz_question": "What breaks down food in stomach?",
+  "quiz_answer": "Stomach acids"
+}

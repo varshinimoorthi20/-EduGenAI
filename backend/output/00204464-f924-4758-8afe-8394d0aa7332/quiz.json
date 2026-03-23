@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of IAM in an organization?",
+    "options": [
+      "A) To manage network infrastructure",
+      "B) To verify user identity and grant access",
+      "C) To develop software applications",
+      "D) To conduct security audits"
+    ],
+    "correct": "B",
+    "explanation": "IAM is used to manage and verify user identities, and grant access to authorized resources within an organization."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a component of IAM?",
+    "options": [
+      "A) Firewall",
+      "B) Identity Provider",
+      "C) Network Switch",
+      "D) Database Server"
+    ],
+    "correct": "B",
+    "explanation": "An Identity Provider is a component of IAM that manages user identities and authenticates users."
+  },
+  {
+    "id": 3,
+    "question": "What happens when you log in to your school's network?",
+    "options": [
+      "A) IAM denies access to all resources",
+      "B) IAM verifies your identity and grants access to authorized resources",
+      "C) IAM creates a new user account",
+      "D) IAM shuts down the network"
+    ],
+    "correct": "B",
+    "explanation": "When you log in to your school's network, IAM works behind the scenes to verify your identity and grant access to authorized resources."
+  },
+  {
+    "id": 4,
+    "question": "Who are the authorized personnel in a school that can enter locked doors?",
+    "options": [
+      "A) Only students",
+      "B) Only teachers",
+      "C) Authorized staff and students",
+      "D) Only the principal"
+    ],
+    "correct": "C",
+    "explanation": "In a school, authorized staff and students are allowed to enter locked doors, similar to how IAM works in organizations where only authorized users can access certain resources."
+  },
+  {
+    "id": 5,
+    "question": "What is the role of a principal in a school similar to in IAM?",
+    "options": [
+      "A) Identity Provider",
+      "B) Service Provider",
+      "C) Administrator",
+      "D) User"
+    ],
+    "correct": "C",
+    "explanation": "The principal in a school can be compared to an administrator in IAM, who manages and oversees the IAM system."
+  }
+]

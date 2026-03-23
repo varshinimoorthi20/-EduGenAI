@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Whale Facts",
+    "narration": "Meet the massive whale, a marine mammal.",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Define whale",
+      "Identify types",
+      "Describe habitats"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Whale Definition",
+    "narration": "Whales are large, warm-blooded mammals.",
+    "slide_points": [
+      "Largest animal",
+      "Lives in ocean",
+      "Eats fish"
+    ],
+    "key_concepts": [
+      "Mammal",
+      "Marine"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Whale Types",
+    "narration": "There are two main types: toothed and baleen.",
+    "slide_points": [
+      "Orca",
+      "Humpback",
+      "Blue whale"
+    ],
+    "key_concepts": [
+      "Toothed",
+      "Baleen"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Whale Habitats",
+    "narration": "Whales live in oceans worldwide.",
+    "slide_points": [
+      "Cold water",
+      "Warm water",
+      "Deep sea"
+    ],
+    "key_concepts": [
+      "Arctic",
+      "Tropical"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Whales are amazing creatures. What is the largest whale?",
+    "slide_points": [
+      "Key Takeaways",
+      "Whale Definition",
+      "Whale Types",
+      "Whale Habitats",
+      "What is the largest whale?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

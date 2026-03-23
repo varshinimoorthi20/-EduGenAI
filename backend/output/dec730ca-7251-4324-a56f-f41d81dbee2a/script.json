@@ -1,0 +1,63 @@
+{
+  "title": "Photosynthesis Basics",
+  "grade": 6,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Define Photosynthesis",
+    "Identify Key Components",
+    "Understand Process"
+  ],
+  "introduction": "Photosynthesis: how plants thrive",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "What is Photosynthesis",
+      "narration": "Photosynthesis: plants make food",
+      "key_concepts": [
+        "Light Energy",
+        "Chlorophyll"
+      ],
+      "slide_points": [
+        "Plants make food",
+        "Use light energy",
+        "Chlorophyll helps"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "The Process",
+      "narration": "Water, light, and CO2",
+      "key_concepts": [
+        "Water Absorption",
+        "Carbon Dioxide"
+      ],
+      "slide_points": [
+        "Water absorbed",
+        "CO2 used",
+        "O2 released"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Importance",
+      "narration": "Life depends on it",
+      "key_concepts": [
+        "Oxygen Production",
+        "Food Chain"
+      ],
+      "slide_points": [
+        "O2 for life",
+        "Food for plants",
+        "Supports ecosystems"
+      ]
+    }
+  ],
+  "conclusion": "Photosynthesis: vital for life",
+  "quiz_question": "What is the byproduct of photosynthesis?",
+  "quiz_answer": "Oxygen"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Python Programming Essentials",
+  "grade": 12,
+  "duration_minutes": 5,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Understand Python basics",
+    "Identify data types",
+    "Apply control structures"
+  ],
+  "introduction": "Visualize Python's syntax and structure",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Python Basics",
+      "narration": "Picture a flowchart with variables and data types",
+      "key_concepts": [
+        "Indentation",
+        "Comments"
+      ],
+      "slide_points": [
+        "Variables store",
+        "Indentation matters",
+        "Comments explain"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Data Types",
+      "narration": "Imagine a color-coded diagram of data types",
+      "key_concepts": [
+        "Integers",
+        "Strings"
+      ],
+      "slide_points": [
+        "Ints are numbers",
+        "Strings are text",
+        "Bools are true"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Control Structures",
+      "narration": "Envision a decision tree with if-else statements",
+      "key_concepts": [
+        "If-else",
+        "Loops"
+      ],
+      "slide_points": [
+        "If checks condition",
+        "Else handles alternative",
+        "Loops repeat code"
+      ]
+    }
+  ],
+  "conclusion": "Recap Python's fundamental concepts and syntax",
+  "quiz_question": "What is Python's primary syntax feature?",
+  "quiz_answer": "Indentation"
+}

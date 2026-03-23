@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to water when it heats up in the water cycle?",
+    "options": [
+      "A) It turns to ice",
+      "B) It turns to vapor",
+      "C) It becomes a solid",
+      "D) It stays the same"
+    ],
+    "correct": "B",
+    "explanation": "Water turns to vapor when it heats up, which is the first step in the water cycle."
+  },
+  {
+    "id": 2,
+    "question": "What is the process called when vapor cools and turns back into liquid water?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Transpiration",
+      "D) Runoff"
+    ],
+    "correct": "B",
+    "explanation": "Condensation is the process by which water vapor cools and turns back into liquid water."
+  },
+  {
+    "id": 3,
+    "question": "What happens to water after it condenses in the water cycle?",
+    "options": [
+      "A) It evaporates again",
+      "B) It stays in the air",
+      "C) It falls back to Earth",
+      "D) It disappears"
+    ],
+    "correct": "C",
+    "explanation": "After condensing, water falls back to Earth in the form of precipitation, such as rain or snow."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT a step in the water cycle?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Photosynthesis",
+      "D) Runoff"
+    ],
+    "correct": "C",
+    "explanation": "Photosynthesis is the process by which plants make food, but it is not a step in the water cycle."
+  },
+  {
+    "id": 5,
+    "question": "What is the main way that water moves from the Earth's surface back into the air in the water cycle?",
+    "options": [
+      "A) Condensation",
+      "B) Evaporation",
+      "C) Transpiration",
+      "D) All of the above"
+    ],
+    "correct": "D",
+    "explanation": "Evaporation, transpiration, and condensation are all important processes in the water cycle, but evaporation is the main way that water moves from the Earth's surface back into the air."
+  }
+]

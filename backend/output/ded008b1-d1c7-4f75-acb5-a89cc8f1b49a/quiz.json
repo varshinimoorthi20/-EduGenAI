@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Where does the digestion of food first begin in the human body?",
+    "options": [
+      "A) Stomach",
+      "B) Mouth",
+      "C) Intestine",
+      "D) Esophagus"
+    ],
+    "correct": "B",
+    "explanation": "Digestion begins in the mouth where food is mixed with saliva."
+  },
+  {
+    "id": 2,
+    "question": "What is the main function of the stomach in the digestive system?",
+    "options": [
+      "A) To absorb water",
+      "B) To break down food with acids",
+      "C) To prepare waste for elimination",
+      "D) To produce saliva"
+    ],
+    "correct": "B",
+    "explanation": "The stomach secretes acids that break down food into smaller molecules."
+  },
+  {
+    "id": 3,
+    "question": "What happens to water in the digestive system?",
+    "options": [
+      "A) It is eliminated as waste",
+      "B) It is stored in the stomach",
+      "C) It is absorbed",
+      "D) It is produced in the intestines"
+    ],
+    "correct": "C",
+    "explanation": "Water is absorbed in the digestive system, primarily in the intestines."
+  },
+  {
+    "id": 4,
+    "question": "What is the end result of the digestive process in terms of waste?",
+    "options": [
+      "A) Nutrient-rich blood",
+      "B) Oxygen for breathing",
+      "C) Prepared waste for elimination",
+      "D) Saliva production"
+    ],
+    "correct": "C",
+    "explanation": "The digestive system prepares waste for elimination after nutrients have been absorbed."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a part of the digestive process?",
+    "options": [
+      "A) Inhaling oxygen",
+      "B) Breaking down food",
+      "C) Absorbing nutrients",
+      "D) Eliminating waste"
+    ],
+    "correct": "A",
+    "explanation": "Inhaling oxygen is part of the respiratory process, not the digestive process."
+  }
+]

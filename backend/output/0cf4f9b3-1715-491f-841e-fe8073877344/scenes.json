@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Water Cycle Explained",
+    "narration": "Imagine a trip around the world in water droplets",
+    "slide_points": [
+      "Grade 7 Lesson",
+      "Understand water cycle process",
+      "Identify key stages of water cycle",
+      "Relate water cycle to real life"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation",
+    "narration": "Water from oceans, lakes, and rivers evaporates into the air like water from a hot cup on a cold day",
+    "slide_points": [
+      "Oceans",
+      "Lakes",
+      "Rivers"
+    ],
+    "key_concepts": [
+      "Evaporation",
+      "Water vapor"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation",
+    "narration": "As water vapor rises, it cools down and forms clouds, similar to how breath fogs up a mirror",
+    "slide_points": [
+      "Clouds",
+      "Fog",
+      "Mist"
+    ],
+    "key_concepts": [
+      "Condensation",
+      "Clouds"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Precipitation",
+    "narration": "When clouds get too heavy with water, they release it back to Earth as rain or snow, just like an overflowing bucket",
+    "slide_points": [
+      "Rain",
+      "Snow",
+      "Hail"
+    ],
+    "key_concepts": [
+      "Precipitation",
+      "Runoff"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Water cycle repeats, keeping our planet full of life What is the first stage of the water cycle?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "What is the first stage of the water cycle?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

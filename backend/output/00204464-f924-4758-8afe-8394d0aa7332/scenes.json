@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Introduction to IAM Architecture",
+    "narration": "Imagine a school with secure access control, that's IAM",
+    "slide_points": [
+      "Grade 12 Lesson",
+      "Understand IAM concepts",
+      "Identify IAM components",
+      "Apply IAM in real-world"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Real-World Analogy",
+    "narration": "Consider a school with locked doors, only authorized staff and students can enter, similar to how IAM works in organizations",
+    "slide_points": [
+      "Secure Doors",
+      "Authorized Access",
+      "Locked Gates"
+    ],
+    "key_concepts": [
+      "Access Control",
+      "Authentication"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "IAM Components",
+    "narration": "Just like a school has a principal, teachers, and students, IAM has its own set of components like identity providers and service providers",
+    "slide_points": [
+      "IDP",
+      "SP",
+      "Users"
+    ],
+    "key_concepts": [
+      "Identity Provider",
+      "Service Provider"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "IAM in Action",
+    "narration": "When you log in to your school's network, IAM is working behind the scenes to verify your identity and grant access to authorized resources",
+    "slide_points": [
+      "Login",
+      "Verify",
+      "Access"
+    ],
+    "key_concepts": [
+      "Authentication Flow",
+      "Authorization"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "In conclusion, IAM architecture is like a secure school, controlling access and ensuring only authorized individuals can enter What is the main purpose of IAM?",
+    "slide_points": [
+      "Key Takeaways",
+      "Real-World Analogy",
+      "IAM Components",
+      "IAM in Action",
+      "What is the main purpose of IAM?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

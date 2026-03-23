@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Introduction to Python",
+    "narration": "Imagine you're a chef, and Python is your recipe book.",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Understand Python basics",
+      "Learn print function",
+      "Write first program"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Python Basics",
+    "narration": "Just like a recipe has steps, a program has code lines. Let's start with a simple 'Hello World' program.",
+    "slide_points": [
+      "Code",
+      "Lines",
+      "Program"
+    ],
+    "key_concepts": [
+      "Code lines",
+      "Program"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Print Function",
+    "narration": "Think of the print function like a toaster. You put in bread, and it gives you toast. Here, we put in text, and it prints it out.",
+    "slide_points": [
+      "Print",
+      "Text",
+      "Output"
+    ],
+    "key_concepts": [
+      "Print",
+      "Function"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "First Program",
+    "narration": "Now, let's write our first program. We'll use the print function to display 'Hello World'. It's like following a simple recipe.",
+    "slide_points": [
+      "Write",
+      "Program",
+      "Run"
+    ],
+    "key_concepts": [
+      "First program",
+      "Hello World"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "You now have a taste of Python programming, just like a delicious dish from your recipe book. What is the purpose of the print function?",
+    "slide_points": [
+      "Key Takeaways",
+      "Python Basics",
+      "Print Function",
+      "First Program",
+      "What is the purpose of the print function?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

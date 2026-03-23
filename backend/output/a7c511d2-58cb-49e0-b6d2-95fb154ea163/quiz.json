@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main way plants make their food?",
+    "options": [
+      "A) By eating insects",
+      "B) By using sunlight",
+      "C) By drinking water",
+      "D) By absorbing nutrients from the soil"
+    ],
+    "correct": "B",
+    "explanation": "Plants use sunlight to make their food through a process called photosynthesis."
+  },
+  {
+    "id": 2,
+    "question": "Why is photosynthesis important for humans?",
+    "options": [
+      "A) Because it helps plants grow",
+      "B) Because it produces oxygen for us to breathe",
+      "C) Because it makes plants taste better",
+      "D) Because it helps animals run faster"
+    ],
+    "correct": "B",
+    "explanation": "Photosynthesis helps produce oxygen, which is essential for human breathing."
+  },
+  {
+    "id": 3,
+    "question": "What do plants need to undergo photosynthesis?",
+    "options": [
+      "A) Only water and soil",
+      "B) Only sunlight and air",
+      "C) Sunlight, water, and air",
+      "D) Only insects and animals"
+    ],
+    "correct": "C",
+    "explanation": "Plants need sunlight, water, and air to undergo photosynthesis and make their food."
+  },
+  {
+    "id": 4,
+    "question": "What is the byproduct of photosynthesis that is important for humans?",
+    "options": [
+      "A) Carbon dioxide",
+      "B) Oxygen",
+      "C) Chlorophyll",
+      "D) Glucose"
+    ],
+    "correct": "B",
+    "explanation": "Oxygen is a byproduct of photosynthesis and is essential for human life."
+  },
+  {
+    "id": 5,
+    "question": "Why do plants appear green to our eyes?",
+    "options": [
+      "A) Because they reflect all colors of light",
+      "B) Because they absorb all colors of light",
+      "C) Because they reflect green light",
+      "D) Because they absorb blue and red light but reflect green light"
+    ],
+    "correct": "D",
+    "explanation": "Plants appear green because they absorb blue and red light for photosynthesis but reflect green light."
+  }
+]

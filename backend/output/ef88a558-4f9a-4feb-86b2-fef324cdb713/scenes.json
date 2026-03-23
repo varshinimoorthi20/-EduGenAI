@@ -1,0 +1,80 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Cloud Architecture Essentials",
+    "narration": "Visualize cloud infrastructure as layered diagrams",
+    "slide_points": [
+      "Grade 12 Lesson",
+      "Define cloud architecture",
+      "Explain deployment models",
+      "Identify service models"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Cloud Deployment Models",
+    "narration": "Picture public, private, hybrid clouds",
+    "slide_points": [
+      "Public: Shared",
+      "Private: Secure",
+      "Hybrid: Flexible"
+    ],
+    "key_concepts": [
+      "Public Cloud",
+      "Private Cloud"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Cloud Service Models",
+    "narration": "Imagine IaaS, PaaS, SaaS as building blocks",
+    "slide_points": [
+      "IaaS: Infrastructure",
+      "PaaS: Platform",
+      "SaaS: Software"
+    ],
+    "key_concepts": [
+      "IaaS",
+      "PaaS",
+      "SaaS"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Cloud Architecture Benefits",
+    "narration": "Envision scalability, reliability, cost savings",
+    "slide_points": [
+      "Scalable: On-demand",
+      "Reliable: Uptime",
+      "Cost: Efficient"
+    ],
+    "key_concepts": [
+      "Scalability",
+      "Reliability"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Recall cloud architecture fundamentals What is IaaS?",
+    "slide_points": [
+      "Key Takeaways",
+      "Cloud Deployment Models",
+      "Cloud Service Models",
+      "Cloud Architecture Benefits",
+      "What is IaaS?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

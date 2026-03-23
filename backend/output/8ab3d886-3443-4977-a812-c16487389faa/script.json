@@ -1,0 +1,60 @@
+{
+  "title": "Water Cycle Adventure",
+  "grade": 2,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "visual",
+  "learning_objectives": [
+    "Understand evaporation",
+    "Learn condensation",
+    "Know precipitation"
+  ],
+  "introduction": "Imagine a big blue circle, that's our water cycle!",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Evaporation",
+      "narration": "The sun heats the ocean, making water rise like a blue bubble",
+      "key_concepts": [
+        "Sun heats water",
+        "Water turns to vapor"
+      ],
+      "slide_points": [
+        "Sun heats",
+        "Water rises",
+        "Blue bubble"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Condensation",
+      "narration": "Vapor cools down, forming white fluffy clouds like cotton balls",
+      "key_concepts": [
+        "Vapor cools",
+        "Clouds form"
+      ],
+      "slide_points": [
+        "Vapor cools",
+        "Clouds grow",
+        "White and fluffy"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Precipitation",
+      "narration": "Clouds get heavy, releasing water droplets like a green umbrella",
+      "key_concepts": [
+        "Clouds get heavy",
+        "Rain falls"
+      ],
+      "slide_points": [
+        "Clouds heavy",
+        "Rain falls",
+        "Green umbrella"
+      ]
+    }
+  ],
+  "conclusion": "And that's our water cycle journey, a big blue circle of water, sun, and clouds!",
+  "quiz_question": "What makes the water rise from the ocean?",
+  "quiz_answer": "The sun's heat"
+}

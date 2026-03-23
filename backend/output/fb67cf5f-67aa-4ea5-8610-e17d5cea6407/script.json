@@ -1,0 +1,61 @@
+{
+  "title": "Secure Web Communication with HTTPS",
+  "grade": 11,
+  "duration_minutes": 2,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "advanced",
+  "learning_objectives": [
+    "Understand HTTPS protocol basics",
+    "Analyze encryption methods used in HTTPS",
+    "Evaluate the importance of HTTPS in web security"
+  ],
+  "introduction": "Imagine a secure, encrypted tunnel for online data exchange, facilitated by the HTTPS protocol, which we'll delve into, exploring its intricacies and significance in protecting web communications.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Introduction to HTTPS",
+      "narration": "HTTPS, or Hypertext Transfer Protocol Secure, is an extension of the HTTP protocol, incorporating an additional layer of security through encryption, typically using the Transport Layer Security protocol, or TLS. Visualize a lock icon in your browser's address bar, symbolizing a secure connection, where data is encrypted before being transmitted over the internet, ensuring confidentiality and integrity.",
+      "key_concepts": [
+        "HTTP protocol",
+        "TLS encryption"
+      ],
+      "slide_points": [
+        "Secure protocol",
+        "Encrypts data",
+        "TLS used"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Encryption Methods in HTTPS",
+      "narration": "The encryption process in HTTPS involves complex algorithms, such as symmetric and asymmetric key encryption. Asymmetric key encryption, like RSA, is used for the initial handshake, while symmetric key encryption, such as AES, is employed for the bulk of the data transfer, due to its faster speeds. Picture a diagram illustrating the handshake process, where the client and server negotiate the terms of the secure connection, including the choice of encryption algorithms and keys.",
+      "key_concepts": [
+        "Symmetric encryption",
+        "Asymmetric encryption"
+      ],
+      "slide_points": [
+        "RSA algorithm",
+        "AES encryption",
+        "Key exchange"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Importance of HTTPS in Web Security",
+      "narration": "The use of HTTPS is crucial in web security, as it protects against various types of attacks, including eavesdropping, man-in-the-middle attacks, and tampering. Consider a scenario where sensitive data, such as passwords or credit card numbers, is being transmitted without encryption; this would be akin to sending a postcard with confidential information, where anyone handling the card could read its contents. In contrast, HTTPS ensures that even if data is intercepted, it will be unintelligible without the decryption key.",
+      "key_concepts": [
+        "Web security threats",
+        "Data protection"
+      ],
+      "slide_points": [
+        "Protects data",
+        "Prevents eavesdropping",
+        "Secure transactions"
+      ]
+    }
+  ],
+  "conclusion": "In conclusion, HTTPS is a vital component of web security, providing a secure channel for data exchange between the client and server. By understanding the basics of the HTTPS protocol, the encryption methods it employs, and its importance in protecting against web security threats, we can appreciate the intricacies of secure online communication.",
+  "quiz_question": "What is the primary purpose of using HTTPS in web communication?",
+  "quiz_answer": "To provide a secure, encrypted channel for data exchange between the client and server."
+}

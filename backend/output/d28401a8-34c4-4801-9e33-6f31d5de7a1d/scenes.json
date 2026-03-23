@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "French Revolution Basics",
+    "narration": "France in crisis, change ahead",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Understand French Revolution",
+      "Identify key events",
+      "Recognize major figures"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Causes of Revolution",
+    "narration": "Financial crisis, social unrest",
+    "slide_points": [
+      "Poor economy",
+      "Social classes",
+      "Tax burden"
+    ],
+    "key_concepts": [
+      "Liberty",
+      "Equality"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Key Events",
+    "narration": "Storming Bastille, royal flight",
+    "slide_points": [
+      "Bastille falls",
+      "King flees",
+      "Republic born"
+    ],
+    "key_concepts": [
+      "Revolution starts",
+      "Monarchy falls"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Major Figures",
+    "narration": "Napoleon rises, new era",
+    "slide_points": [
+      "Napoleon leads",
+      "New constitution",
+      "Empire expands"
+    ],
+    "key_concepts": [
+      "Napoleon",
+      "Leadership"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Revolution's lasting impact What sparked the French Revolution?",
+    "slide_points": [
+      "Key Takeaways",
+      "Causes of Revolution",
+      "Key Events",
+      "Major Figures",
+      "What sparked the French Revolution?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

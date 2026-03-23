@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What does the letter 'x' represent in an equation?",
+    "options": [
+      "A) A specific number",
+      "B) A secret number",
+      "C) A mathematical operation",
+      "D) A variable with a fixed value"
+    ],
+    "correct": "B",
+    "explanation": "The letter 'x' is used to represent a secret or unknown number in an equation."
+  },
+  {
+    "id": 2,
+    "question": "What is an equation similar to?",
+    "options": [
+      "A) A recipe",
+      "B) A balance scale",
+      "C) A map",
+      "D) A chart"
+    ],
+    "correct": "B",
+    "explanation": "An equation is like a balance scale because it has numbers and letters on each side that must be equal."
+  },
+  {
+    "id": 3,
+    "question": "How do we solve an equation?",
+    "options": [
+      "A) By guessing the answer",
+      "B) By finding the secret number that makes it true",
+      "C) By adding numbers together",
+      "D) By subtracting numbers from each other"
+    ],
+    "correct": "B",
+    "explanation": "We solve an equation by finding the secret number that makes the equation true."
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of using letters in an equation?",
+    "options": [
+      "A) To represent a specific number",
+      "B) To make the equation more complicated",
+      "C) To represent an unknown or secret number",
+      "D) To make the equation easier to read"
+    ],
+    "correct": "C",
+    "explanation": "Letters are used to represent unknown or secret numbers in an equation."
+  },
+  {
+    "id": 5,
+    "question": "What must be equal in a balanced equation?",
+    "options": [
+      "A) The number of letters on each side",
+      "B) The number of numbers on each side",
+      "C) The total value on each side",
+      "D) The number of operations on each side"
+    ],
+    "correct": "C",
+    "explanation": "In a balanced equation, the total value on each side must be equal."
+  }
+]

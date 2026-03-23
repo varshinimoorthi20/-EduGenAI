@@ -1,0 +1,57 @@
+{
+  "title": "The Water Cycle Explained",
+  "grade": 6,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "example",
+  "learning_objectives": [
+    "Understand water cycle process",
+    "Identify key stages",
+    "Relate to real-life"
+  ],
+  "introduction": "Imagine a drop of water falling from a cloud, where does it go?",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Evaporation",
+      "narration": "Like when you take a hot shower and the mirror fogs up, the sun heats water in oceans, lakes, and rivers, turning it into water vapor",
+      "key_concepts": [
+        "Evaporation",
+        "Water vapor"
+      ],
+      "slide_points": [
+        "Sun heats water",
+        "Water turns vapor"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Condensation",
+      "narration": "As water vapor rises, it cools down, like when you breathe onto a cold window and it fogs up, forming clouds",
+      "key_concepts": [
+        "Condensation",
+        "Clouds form"
+      ],
+      "slide_points": [
+        "Vapor cools down",
+        "Clouds are formed"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Precipitation",
+      "narration": "When clouds get too heavy with water, they release it back to earth as rain or snow, like when you see rain falling from the sky",
+      "key_concepts": [
+        "Precipitation",
+        "Rain and snow"
+      ],
+      "slide_points": [
+        "Clouds get heavy",
+        "Rain falls down"
+      ]
+    }
+  ],
+  "conclusion": "The water cycle is like a big circle, water keeps moving and changing forms",
+  "quiz_question": "What happens to water when it evaporates?",
+  "quiz_answer": "It turns into water vapor"
+}

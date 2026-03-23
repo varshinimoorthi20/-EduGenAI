@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary goal of mobile network security?",
+    "options": [
+      "A) To increase mobile device storage",
+      "B) To protect mobile devices, networks, and data from unauthorized access",
+      "C) To improve mobile device performance",
+      "D) To reduce mobile network costs"
+    ],
+    "correct": "B",
+    "explanation": "Mobile network security aims to protect mobile devices, networks, and data from various security threats."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a type of malware that can compromise mobile devices?",
+    "options": [
+      "A) Firewall",
+      "B) Encryption",
+      "C) Spyware",
+      "D) Antivirus"
+    ],
+    "correct": "C",
+    "explanation": "Spyware is a type of malware that can steal sensitive information from mobile devices."
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of encryption in mobile network security?",
+    "options": [
+      "A) To increase mobile network speed",
+      "B) To reduce mobile network costs",
+      "C) To scramble data and prevent unauthorized access",
+      "D) To improve mobile device performance"
+    ],
+    "correct": "C",
+    "explanation": "Encryption scrambles data to prevent unauthorized access, ensuring the confidentiality and integrity of mobile network data."
+  },
+  {
+    "id": 4,
+    "question": "Which industry relies heavily on mobile network security to protect sensitive financial information?",
+    "options": [
+      "A) Healthcare",
+      "B) Education",
+      "C) Finance",
+      "D) Government"
+    ],
+    "correct": "C",
+    "explanation": "The finance industry relies heavily on mobile network security to protect sensitive financial information and prevent cyber attacks."
+  },
+  {
+    "id": 5,
+    "question": "What type of attack can overwhelm a mobile network with traffic in an attempt to make it unavailable to users?",
+    "options": [
+      "A) Phishing attack",
+      "B) Malware attack",
+      "C) Denial-of-service attack",
+      "D) Man-in-the-middle attack"
+    ],
+    "correct": "C",
+    "explanation": "A denial-of-service attack can overwhelm a mobile network with traffic, making it unavailable to users and disrupting mobile network services."
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "title": "Secure Web Browsing with HTTPS",
+  "grade": 10,
+  "duration_minutes": 2,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "advanced",
+  "learning_objectives": [
+    "Explain HTTPS protocol",
+    "Describe encryption process",
+    "Identify security benefits"
+  ],
+  "introduction": "Imagine sending sensitive data through a secure, encrypted tunnel, protected from interception. This is HTTPS, the backbone of secure web browsing.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Introduction to HTTPS",
+      "narration": "HTTPS, or Hypertext Transfer Protocol Secure, is an extension of HTTP, utilizing encryption to secure data transfer between browsers and websites. This encryption process involves complex algorithms, ensuring data confidentiality and integrity.",
+      "key_concepts": [
+        "Encryption",
+        "HTTPS protocol"
+      ],
+      "slide_points": [
+        "Secure data transfer",
+        "Encryption algorithms",
+        "HTTP extension"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Encryption Process",
+      "narration": "The encryption process in HTTPS involves a handshake between the client and server, where they agree on a shared secret key. This key is then used to encrypt and decrypt data, using symmetric or asymmetric encryption methods, such as SSL/TLS.",
+      "key_concepts": [
+        "Symmetric encryption",
+        "Asymmetric encryption"
+      ],
+      "slide_points": [
+        "Client-server handshake",
+        "Shared secret key",
+        "SSL/TLS protocols"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Security Benefits",
+      "narration": "The use of HTTPS provides several security benefits, including protection against eavesdropping, tampering, and man-in-the-middle attacks. This ensures that sensitive data, such as passwords and credit card numbers, remains confidential and secure.",
+      "key_concepts": [
+        "Eavesdropping protection",
+        "Tampering prevention"
+      ],
+      "slide_points": [
+        "Confidentiality",
+        "Integrity",
+        "Authentication"
+      ]
+    }
+  ],
+  "conclusion": "In conclusion, HTTPS is a crucial protocol for secure web browsing, providing encryption and protection for sensitive data. By understanding the encryption process and security benefits, we can appreciate the importance of HTTPS in our daily online interactions.",
+  "quiz_question": "What is the primary purpose of HTTPS?",
+  "quiz_answer": "To provide secure data transfer between browsers and websites"
+}

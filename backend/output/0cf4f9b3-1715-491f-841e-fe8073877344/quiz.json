@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to water from oceans, lakes, and rivers?",
+    "options": [
+      "A) It freezes",
+      "B) It evaporates into the air",
+      "C) It stays still",
+      "D) It disappears"
+    ],
+    "correct": "B",
+    "explanation": "Water from oceans, lakes, and rivers evaporates into the air due to heat from the sun."
+  },
+  {
+    "id": 2,
+    "question": "What occurs when water vapor rises into the air?",
+    "options": [
+      "A) It gets hotter",
+      "B) It stays the same temperature",
+      "C) It cools down",
+      "D) It turns into ice"
+    ],
+    "correct": "C",
+    "explanation": "As water vapor rises, it cools down due to the decrease in temperature at higher altitudes."
+  },
+  {
+    "id": 3,
+    "question": "What happens to clouds when they get too heavy with water?",
+    "options": [
+      "A) They disappear",
+      "B) They release water back to Earth as rain or snow",
+      "C) They stay the same",
+      "D) They move to a different location"
+    ],
+    "correct": "B",
+    "explanation": "When clouds get too heavy with water, they release it back to Earth as rain or snow due to gravity."
+  },
+  {
+    "id": 4,
+    "question": "What is a similar process to water vapor rising and forming clouds?",
+    "options": [
+      "A) A rock rolling down a hill",
+      "B) Breath fogging up a mirror",
+      "C) A fire burning wood",
+      "D) A plant growing in soil"
+    ],
+    "correct": "B",
+    "explanation": "Breath fogging up a mirror is a similar process to water vapor rising and forming clouds, as both involve the condensation of water vapor."
+  },
+  {
+    "id": 5,
+    "question": "What is the final stage of the water cycle after clouds release water back to Earth?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Runoff and infiltration",
+      "D) Transpiration"
+    ],
+    "correct": "C",
+    "explanation": "After clouds release water back to Earth as rain or snow, it either runs off the surface or infiltrates the soil, starting the water cycle again."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What are the three main types of cloud deployment models?",
+    "options": [
+      "A) Public, Private, Community",
+      "B) Public, Private, Hybrid",
+      "C) Public, Hybrid, On-premise",
+      "D) Private, Hybrid, Community"
+    ],
+    "correct": "B",
+    "explanation": "The three main types of cloud deployment models are Public, Private, and Hybrid clouds."
+  },
+  {
+    "id": 2,
+    "question": "Which cloud service model provides virtualized computing resources?",
+    "options": [
+      "A) SaaS",
+      "B) PaaS",
+      "C) IaaS",
+      "D) DaaS"
+    ],
+    "correct": "C",
+    "explanation": "IaaS (Infrastructure as a Service) provides virtualized computing resources such as servers, storage, and networking."
+  },
+  {
+    "id": 3,
+    "question": "What is one of the key benefits of using cloud architecture?",
+    "options": [
+      "A) High upfront costs",
+      "B) Limited scalability",
+      "C) Cost savings",
+      "D) Increased complexity"
+    ],
+    "correct": "C",
+    "explanation": "One of the key benefits of using cloud architecture is cost savings, as it eliminates the need for upfront capital expenditures."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of a SaaS application?",
+    "options": [
+      "A) Microsoft Azure",
+      "B) Google Cloud Platform",
+      "C) Microsoft Office 365",
+      "D) Amazon EC2"
+    ],
+    "correct": "C",
+    "explanation": "Microsoft Office 365 is an example of a SaaS (Software as a Service) application, which provides software applications over the internet."
+  },
+  {
+    "id": 5,
+    "question": "What is the primary advantage of using a hybrid cloud?",
+    "options": [
+      "A) Increased security risks",
+      "B) Limited flexibility",
+      "C) Ability to integrate public and private clouds",
+      "D) Higher costs"
+    ],
+    "correct": "C",
+    "explanation": "The primary advantage of using a hybrid cloud is the ability to integrate public and private clouds, allowing for greater flexibility and scalability."
+  }
+]

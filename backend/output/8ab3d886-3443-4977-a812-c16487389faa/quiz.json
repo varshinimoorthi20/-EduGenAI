@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to the water in the ocean when the sun heats it?",
+    "options": [
+      "A) It freezes",
+      "B) It stays the same",
+      "C) It rises like a bubble",
+      "D) It disappears"
+    ],
+    "correct": "C",
+    "explanation": "The sun heats the ocean, making water rise like a blue bubble."
+  },
+  {
+    "id": 2,
+    "question": "What do the white fluffy clouds look like?",
+    "options": [
+      "A) Green balls",
+      "B) Blue bubbles",
+      "C) Cotton balls",
+      "D) Umbrellas"
+    ],
+    "correct": "C",
+    "explanation": "The vapor cools down, forming white fluffy clouds like cotton balls."
+  },
+  {
+    "id": 3,
+    "question": "What happens to the clouds when they get heavy?",
+    "options": [
+      "A) They disappear",
+      "B) They stay the same",
+      "C) They release water droplets",
+      "D) They turn blue"
+    ],
+    "correct": "C",
+    "explanation": "Clouds get heavy, releasing water droplets like a green umbrella."
+  },
+  {
+    "id": 4,
+    "question": "What is the water cycle like?",
+    "options": [
+      "A) A straight line",
+      "B) A circle",
+      "C) A square",
+      "D) A triangle"
+    ],
+    "correct": "B",
+    "explanation": "The water cycle is a continuous process where water evaporates, condenses, and precipitates, making it a circular process."
+  },
+  {
+    "id": 5,
+    "question": "What is the green umbrella like in the water cycle?",
+    "options": [
+      "A) A cloud",
+      "B) The sun",
+      "C) Water droplets",
+      "D) The ocean"
+    ],
+    "correct": "C",
+    "explanation": "The green umbrella represents the water droplets that are released from the clouds when they get heavy."
+  }
+]

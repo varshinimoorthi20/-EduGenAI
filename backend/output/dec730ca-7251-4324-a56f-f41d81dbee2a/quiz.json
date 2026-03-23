@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the process called when plants make their own food?",
+    "options": [
+      "A) Respiration",
+      "B) Photosynthesis",
+      "C) Decomposition",
+      "D) Fermentation"
+    ],
+    "correct": "B",
+    "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose."
+  },
+  {
+    "id": 2,
+    "question": "What are the three main things plants need to make food through photosynthesis?",
+    "options": [
+      "A) Water, light, and oxygen",
+      "B) Water, light, and CO2",
+      "C) Soil, light, and temperature",
+      "D) Water, temperature, and CO2"
+    ],
+    "correct": "B",
+    "explanation": "Plants need water, light, and carbon dioxide to make food through photosynthesis."
+  },
+  {
+    "id": 3,
+    "question": "Why is photosynthesis important for life on Earth?",
+    "options": [
+      "A) It produces oxygen for humans to breathe",
+      "B) It produces water for plants to drink",
+      "C) It produces soil for plants to grow",
+      "D) It produces CO2 for plants to use"
+    ],
+    "correct": "A",
+    "explanation": "Photosynthesis is important because it produces oxygen, which is necessary for humans and other animals to breathe."
+  },
+  {
+    "id": 4,
+    "question": "What type of energy do plants use to make food during photosynthesis?",
+    "options": [
+      "A) Chemical energy",
+      "B) Thermal energy",
+      "C) Light energy",
+      "D) Kinetic energy"
+    ],
+    "correct": "C",
+    "explanation": "Plants use light energy from the sun to make food during photosynthesis."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a byproduct of photosynthesis?",
+    "options": [
+      "A) Carbon dioxide",
+      "B) Oxygen",
+      "C) Glucose",
+      "D) Water"
+    ],
+    "correct": "B",
+    "explanation": "Oxygen is a byproduct of photosynthesis, which is released into the air as a result of the process."
+  }
+]

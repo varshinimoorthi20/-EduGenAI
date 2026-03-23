@@ -1,0 +1,80 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Water Cycle Adventure",
+    "narration": "Imagine a big circle of water in the sky, moving around our planet.",
+    "slide_points": [
+      "Grade 3 Lesson",
+      "Understand water cycle basics",
+      "Identify key water cycle stages",
+      "Recognize water cycle importance"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation",
+    "narration": "The sun heats the ocean, lakes, and rivers, turning water into water vapor, rising like a blue mist into the air.",
+    "slide_points": [
+      "Sun heats water",
+      "Water turns vapor",
+      "Rises into air"
+    ],
+    "key_concepts": [
+      "Evaporation",
+      "Water vapor"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation",
+    "narration": "As water vapor cools down in the sky, it condenses into tiny droplets, forming white, puffy clouds.",
+    "slide_points": [
+      "Vapor cools down",
+      "Forms clouds",
+      "Droplets combine"
+    ],
+    "key_concepts": [
+      "Condensation",
+      "Clouds"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Precipitation",
+    "narration": "When the clouds get too heavy with water, the droplets fall to the ground as precipitation, like rain or snow, nourishing our planet.",
+    "slide_points": [
+      "Clouds get heavy",
+      "Water falls down",
+      "Nourishes planet"
+    ],
+    "key_concepts": [
+      "Precipitation",
+      "Rain",
+      "Snow"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "The water cycle is like a big, natural circle, constantly moving and renewing our planet's water. What happens to water when it evaporates?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "What happens to water when it evaporates?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

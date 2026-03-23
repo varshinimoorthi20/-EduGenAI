@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is a program in Python?",
+    "options": [
+      "A) A set of instructions",
+      "B) A type of variable",
+      "C) A function to print numbers",
+      "D) A way to store data"
+    ],
+    "correct": "A",
+    "explanation": "A program in Python is a set of instructions that the computer follows to perform a specific task."
+  },
+  {
+    "id": 2,
+    "question": "What is the purpose of the print function in Python?",
+    "options": [
+      "A) To store data",
+      "B) To perform calculations",
+      "C) To display text or output",
+      "D) To create a variable"
+    ],
+    "correct": "C",
+    "explanation": "The print function in Python is used to display text or output to the user."
+  },
+  {
+    "id": 3,
+    "question": "What is the analogy used to describe the print function in the lesson?",
+    "options": [
+      "A) A blender",
+      "B) A toaster",
+      "C) A mixer",
+      "D) A refrigerator"
+    ],
+    "correct": "B",
+    "explanation": "The print function is described as being like a toaster, where you put in input (bread) and get output (toast)."
+  },
+  {
+    "id": 4,
+    "question": "What is the first program that students are asked to write in the lesson?",
+    "options": [
+      "A) A calculator program",
+      "B) A game program",
+      "C) A 'Hello World' program",
+      "D) A chatbot program"
+    ],
+    "correct": "C",
+    "explanation": "The first program that students are asked to write in the lesson is a simple 'Hello World' program."
+  },
+  {
+    "id": 5,
+    "question": "Why is a program compared to a recipe in the lesson?",
+    "options": [
+      "A) Because they both use ingredients",
+      "B) Because they both have steps or instructions",
+      "C) Because they both produce food",
+      "D) Because they both are cooked"
+    ],
+    "correct": "B",
+    "explanation": "A program is compared to a recipe because they both have steps or instructions that need to be followed in order to produce the desired output."
+  }
+]

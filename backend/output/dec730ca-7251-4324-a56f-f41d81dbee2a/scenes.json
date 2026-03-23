@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Photosynthesis Basics",
+    "narration": "Photosynthesis: how plants thrive",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Define Photosynthesis",
+      "Identify Key Components",
+      "Understand Process"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "What is Photosynthesis",
+    "narration": "Photosynthesis: plants make food",
+    "slide_points": [
+      "Plants make food",
+      "Use light energy",
+      "Chlorophyll helps"
+    ],
+    "key_concepts": [
+      "Light Energy",
+      "Chlorophyll"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "The Process",
+    "narration": "Water, light, and CO2",
+    "slide_points": [
+      "Water absorbed",
+      "CO2 used",
+      "O2 released"
+    ],
+    "key_concepts": [
+      "Water Absorption",
+      "Carbon Dioxide"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Importance",
+    "narration": "Life depends on it",
+    "slide_points": [
+      "O2 for life",
+      "Food for plants",
+      "Supports ecosystems"
+    ],
+    "key_concepts": [
+      "Oxygen Production",
+      "Food Chain"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Photosynthesis: vital for life What is the byproduct of photosynthesis?",
+    "slide_points": [
+      "Key Takeaways",
+      "What is Photosynthesis",
+      "The Process",
+      "Importance",
+      "What is the byproduct of photosynthesis?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

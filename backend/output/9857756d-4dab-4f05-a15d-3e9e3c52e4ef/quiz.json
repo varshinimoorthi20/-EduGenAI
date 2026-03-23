@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What happens to water when it heats up in the water cycle?",
+    "options": [
+      "A) It turns to ice",
+      "B) It turns to vapor",
+      "C) It stays the same",
+      "D) It disappears"
+    ],
+    "correct": "B",
+    "explanation": "Water turns to vapor when it heats up due to evaporation."
+  },
+  {
+    "id": 2,
+    "question": "What is the process called when vapor cools and turns back into liquid?",
+    "options": [
+      "A) Evaporation",
+      "B) Condensation",
+      "C) Transpiration",
+      "D) Infiltration"
+    ],
+    "correct": "B",
+    "explanation": "Condensation occurs when water vapor cools and changes back into liquid water."
+  },
+  {
+    "id": 3,
+    "question": "Where does the water eventually end up after it has turned to vapor and then back to liquid?",
+    "options": [
+      "A) In the atmosphere",
+      "B) On the moon",
+      "C) Back on Earth",
+      "D) In space"
+    ],
+    "correct": "C",
+    "explanation": "After condensing into liquid, water falls back to Earth as precipitation."
+  },
+  {
+    "id": 4,
+    "question": "What is the term for water moving from the ground to the atmosphere through plants?",
+    "options": [
+      "A) Respiration",
+      "B) Photosynthesis",
+      "C) Transpiration",
+      "D) Evaporation"
+    ],
+    "correct": "C",
+    "explanation": "Transpiration is the process by which water is transported through a plant, from the roots to the atmosphere."
+  },
+  {
+    "id": 5,
+    "question": "What is the overall process called that describes the continuous movement of water on, above, and below the surface of the Earth?",
+    "options": [
+      "A) The Oxygen Cycle",
+      "B) The Carbon Cycle",
+      "C) The Water Cycle",
+      "D) The Nitrogen Cycle"
+    ],
+    "correct": "C",
+    "explanation": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth."
+  }
+]

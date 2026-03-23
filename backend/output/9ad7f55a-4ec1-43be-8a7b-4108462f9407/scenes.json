@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Water Cycle Basics",
+    "narration": "Water Cycle: Earth's water journey",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Define Water Cycle",
+      "Explain Evaporation",
+      "Describe Condensation"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Evaporation",
+    "narration": "Water heats up, turns to vapor",
+    "slide_points": [
+      "Water heats",
+      "Turns to vapor",
+      "Rises high"
+    ],
+    "key_concepts": [
+      "Evaporation",
+      "Vapor"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Condensation",
+    "narration": "Vapor cools, turns to liquid",
+    "slide_points": [
+      "Vapor cools",
+      "Turns to liquid",
+      "Forms clouds"
+    ],
+    "key_concepts": [
+      "Condensation",
+      "Clouds"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Precipitation",
+    "narration": "Water falls back to Earth",
+    "slide_points": [
+      "Water falls",
+      "Reaches ground",
+      "Flows again"
+    ],
+    "key_concepts": [
+      "Precipitation",
+      "Runoff"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Water Cycle: continuous process What is the Water Cycle?",
+    "slide_points": [
+      "Key Takeaways",
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "What is the Water Cycle?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

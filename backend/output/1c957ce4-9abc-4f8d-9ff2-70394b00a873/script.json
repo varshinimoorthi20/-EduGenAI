@@ -1,0 +1,63 @@
+{
+  "title": "Whale Facts",
+  "grade": 6,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Define whale",
+    "Identify types",
+    "Describe habitats"
+  ],
+  "introduction": "Meet the massive whale, a marine mammal.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Whale Definition",
+      "narration": "Whales are large, warm-blooded mammals.",
+      "key_concepts": [
+        "Mammal",
+        "Marine"
+      ],
+      "slide_points": [
+        "Largest animal",
+        "Lives in ocean",
+        "Eats fish"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Whale Types",
+      "narration": "There are two main types: toothed and baleen.",
+      "key_concepts": [
+        "Toothed",
+        "Baleen"
+      ],
+      "slide_points": [
+        "Orca",
+        "Humpback",
+        "Blue whale"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Whale Habitats",
+      "narration": "Whales live in oceans worldwide.",
+      "key_concepts": [
+        "Arctic",
+        "Tropical"
+      ],
+      "slide_points": [
+        "Cold water",
+        "Warm water",
+        "Deep sea"
+      ]
+    }
+  ],
+  "conclusion": "Whales are amazing creatures.",
+  "quiz_question": "What is the largest whale?",
+  "quiz_answer": "Blue whale"
+}

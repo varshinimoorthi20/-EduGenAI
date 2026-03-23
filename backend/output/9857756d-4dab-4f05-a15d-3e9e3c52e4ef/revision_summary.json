@@ -1,0 +1,51 @@
+{
+  "revision_title": "Quick Revision: The Water Cycle",
+  "key_definitions": [
+    {
+      "term": "Evaporation",
+      "definition": "Water turns to vapor"
+    },
+    {
+      "term": "Condensation",
+      "definition": "Vapor turns to liquid"
+    },
+    {
+      "term": "Precipitation",
+      "definition": "Water falls to ground"
+    }
+  ],
+  "important_concepts": [
+    "Evaporation",
+    "Condensation",
+    "Precipitation"
+  ],
+  "bullet_summaries": [
+    {
+      "scene": "Evaporation",
+      "points": [
+        "Heats up",
+        "Turns vapor"
+      ]
+    },
+    {
+      "scene": "Condensation",
+      "points": [
+        "Cools down",
+        "Forms clouds"
+      ]
+    },
+    {
+      "scene": "Precipitation",
+      "points": [
+        "Falls down",
+        "Repeats cycle"
+      ]
+    }
+  ],
+  "important_terms": [
+    "Transpiration",
+    "Runoff",
+    "Clouds"
+  ],
+  "formulas_or_rules": []
+}

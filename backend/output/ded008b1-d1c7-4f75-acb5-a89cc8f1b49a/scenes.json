@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Human Digestive System",
+    "narration": "Imagine a long, winding road for food",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Define digestion",
+      "Identify key organs",
+      "Describe nutrient absorption"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Mouth and Esophagus",
+    "narration": "Food enters mouth, mixed with saliva",
+    "slide_points": [
+      "Teeth chew food",
+      "Saliva adds enzymes",
+      "Swallowing occurs"
+    ],
+    "key_concepts": [
+      "Mouth",
+      "Esophagus"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Stomach and Small Intestine",
+    "narration": "Stomach acids break down food",
+    "slide_points": [
+      "Acids break down",
+      "Nutrients absorbed",
+      "Waste moves on"
+    ],
+    "key_concepts": [
+      "Stomach",
+      "Small intestine"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Large Intestine and Absorption",
+    "narration": "Water absorbed, waste prepared",
+    "slide_points": [
+      "Water absorbed",
+      "Electrolytes balanced",
+      "Waste eliminated"
+    ],
+    "key_concepts": [
+      "Large intestine",
+      "Absorption"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Digestion complete, nutrients absorbed What breaks down food in stomach?",
+    "slide_points": [
+      "Key Takeaways",
+      "Mouth and Esophagus",
+      "Stomach and Small Intestine",
+      "Large Intestine and Absorption",
+      "What breaks down food in stomach?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

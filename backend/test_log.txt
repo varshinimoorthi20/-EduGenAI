@@ -1,0 +1,37 @@
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arial.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arialbd.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arialbd.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arial.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arialbd.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arial.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arial.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arialbd.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arialbd.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arial.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arialbd.ttf
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansTamil-Regular.ttf: cannot open resource
+[Font Debug] Error loading font E:\EduGenAI_v3\EduGenAI\backend\fonts\NotoSansDevanagari-Regular.ttf: cannot open resource
+[Font Debug] Successfully loaded font: C:/Windows/Fonts/arial.ttf
+Generated slides at: ['E:\\EduGenAI_v3\\EduGenAI\\backend\\output\\test_slides\\slide_001.png', 'E:\\EduGenAI_v3\\EduGenAI\\backend\\output\\test_slides\\slide_002.png']

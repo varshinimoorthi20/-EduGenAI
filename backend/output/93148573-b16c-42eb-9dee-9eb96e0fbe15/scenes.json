@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Python Programming Essentials",
+    "narration": "Visualize Python's syntax and structure",
+    "slide_points": [
+      "Grade 12 Lesson",
+      "Understand Python basics",
+      "Identify data types",
+      "Apply control structures"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Python Basics",
+    "narration": "Picture a flowchart with variables and data types",
+    "slide_points": [
+      "Variables store",
+      "Indentation matters",
+      "Comments explain"
+    ],
+    "key_concepts": [
+      "Indentation",
+      "Comments"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Data Types",
+    "narration": "Imagine a color-coded diagram of data types",
+    "slide_points": [
+      "Ints are numbers",
+      "Strings are text",
+      "Bools are true"
+    ],
+    "key_concepts": [
+      "Integers",
+      "Strings"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Control Structures",
+    "narration": "Envision a decision tree with if-else statements",
+    "slide_points": [
+      "If checks condition",
+      "Else handles alternative",
+      "Loops repeat code"
+    ],
+    "key_concepts": [
+      "If-else",
+      "Loops"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Recap Python's fundamental concepts and syntax What is Python's primary syntax feature?",
+    "slide_points": [
+      "Key Takeaways",
+      "Python Basics",
+      "Data Types",
+      "Control Structures",
+      "What is Python's primary syntax feature?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

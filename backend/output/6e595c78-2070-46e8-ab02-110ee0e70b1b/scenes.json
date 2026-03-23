@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "French Revolution Basics",
+    "narration": "Imagine a red, white, and blue diagram showing France in crisis.",
+    "slide_points": [
+      "Grade 6 Lesson",
+      "Understand French Revolution causes",
+      "Learn key events and figures",
+      "Identify Revolution outcomes"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Causes of Revolution",
+    "narration": "Picture a triangle: poverty, inequality, and absolute monarchy.",
+    "slide_points": [
+      "King Louis XVI",
+      "Poor peasants",
+      "Tax burden"
+    ],
+    "key_concepts": [
+      "Social hierarchy",
+      "Financial crisis"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Key Events and Figures",
+    "narration": "Visualize a timeline with Storming Bastille and Napoleon.",
+    "slide_points": [
+      "Bastille falls",
+      "Napoleon leads",
+      "Europe at war"
+    ],
+    "key_concepts": [
+      "Revolutionary wars",
+      "Napoleon's rise"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Outcomes and Legacy",
+    "narration": "See a blue, white, and red flag waving, symbolizing freedom.",
+    "slide_points": [
+      "Liberty equality",
+      "New France born",
+      "Europe changes"
+    ],
+    "key_concepts": [
+      "New constitution",
+      "Modern democracy"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Recall the French Revolution's impact on modern history. What was the main cause of the French Revolution?",
+    "slide_points": [
+      "Key Takeaways",
+      "Causes of Revolution",
+      "Key Events and Figures",
+      "Outcomes and Legacy",
+      "What was the main cause of the French Revolution?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

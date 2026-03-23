@@ -1,0 +1,61 @@
+{
+  "title": "Water Cycle Adventure",
+  "grade": 3,
+  "duration_minutes": 1,
+  "language": "english",
+  "learning_style": "visual",
+  "learning_objectives": [
+    "Understand water cycle basics",
+    "Identify key water cycle stages",
+    "Recognize water cycle importance"
+  ],
+  "introduction": "Imagine a big circle of water in the sky, moving around our planet.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Evaporation",
+      "narration": "The sun heats the ocean, lakes, and rivers, turning water into water vapor, rising like a blue mist into the air.",
+      "key_concepts": [
+        "Evaporation",
+        "Water vapor"
+      ],
+      "slide_points": [
+        "Sun heats water",
+        "Water turns vapor",
+        "Rises into air"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Condensation",
+      "narration": "As water vapor cools down in the sky, it condenses into tiny droplets, forming white, puffy clouds.",
+      "key_concepts": [
+        "Condensation",
+        "Clouds"
+      ],
+      "slide_points": [
+        "Vapor cools down",
+        "Forms clouds",
+        "Droplets combine"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Precipitation",
+      "narration": "When the clouds get too heavy with water, the droplets fall to the ground as precipitation, like rain or snow, nourishing our planet.",
+      "key_concepts": [
+        "Precipitation",
+        "Rain",
+        "Snow"
+      ],
+      "slide_points": [
+        "Clouds get heavy",
+        "Water falls down",
+        "Nourishes planet"
+      ]
+    }
+  ],
+  "conclusion": "The water cycle is like a big, natural circle, constantly moving and renewing our planet's water.",
+  "quiz_question": "What happens to water when it evaporates?",
+  "quiz_answer": "It turns into water vapor."
+}
