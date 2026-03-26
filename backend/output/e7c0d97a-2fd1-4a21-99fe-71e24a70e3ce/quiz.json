@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Where does the process of digestion begin in the human body?",
+    "options": [
+      "A) Stomach",
+      "B) Small intestine",
+      "C) Mouth",
+      "D) Esophagus"
+    ],
+    "correct": "C",
+    "explanation": "Digestion starts with the mechanical breakdown of food by teeth in the mouth."
+  },
+  {
+    "id": 2,
+    "question": "What is the primary function of the stomach in the digestive system?",
+    "options": [
+      "A) Absorption of nutrients",
+      "B) Elimination of waste",
+      "C) Churning and mixing of food",
+      "D) Storage of food"
+    ],
+    "correct": "C",
+    "explanation": "The stomach churns and mixes food with digestive enzymes to break it down further."
+  },
+  {
+    "id": 3,
+    "question": "Which part of the digestive system is responsible for eliminating waste?",
+    "options": [
+      "A) Mouth",
+      "B) Stomach",
+      "C) Small intestine",
+      "D) Large intestine"
+    ],
+    "correct": "D",
+    "explanation": "The large intestine is responsible for absorbing water and eliminating waste from the body."
+  },
+  {
+    "id": 4,
+    "question": "What happens to food in the stomach?",
+    "options": [
+      "A) It is absorbed into the bloodstream",
+      "B) It is eliminated from the body",
+      "C) It is churned and mixed with digestive enzymes",
+      "D) It is stored for later use"
+    ],
+    "correct": "C",
+    "explanation": "The stomach secretes digestive enzymes and churns food to break it down into a liquid mixture."
+  },
+  {
+    "id": 5,
+    "question": "In what order do the processes of digestion, absorption, and elimination occur?",
+    "options": [
+      "A) Elimination, digestion, absorption",
+      "B) Digestion, elimination, absorption",
+      "C) Absorption, digestion, elimination",
+      "D) Digestion, absorption, elimination"
+    ],
+    "correct": "D",
+    "explanation": "Food is first digested, then the nutrients are absorbed, and finally the waste is eliminated from the body."
+  }
+]

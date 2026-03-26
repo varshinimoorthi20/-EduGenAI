@@ -1,0 +1,54 @@
+{
+  "revision_title": "Quick Revision: Human Digestive System",
+  "key_definitions": [
+    {
+      "term": "Mastication",
+      "definition": "Breaking down food by teeth"
+    },
+    {
+      "term": "Peristalsis",
+      "definition": "Wavelike muscle contractions"
+    },
+    {
+      "term": "Gastric acid",
+      "definition": "Acid breaking down proteins"
+    }
+  ],
+  "important_concepts": [
+    "Digestion",
+    "Absorption",
+    "Elimination"
+  ],
+  "bullet_summaries": [
+    {
+      "scene": "Mouth and Esophagus",
+      "points": [
+        "Chewing",
+        "Swallowing"
+      ]
+    },
+    {
+      "scene": "Stomach and Small Intestine",
+      "points": [
+        "Acid",
+        "Enzyme"
+      ]
+    },
+    {
+      "scene": "Large Intestine",
+      "points": [
+        "Water",
+        "Feces"
+      ]
+    }
+  ],
+  "important_terms": [
+    "Saliva",
+    "Bile",
+    "Feces"
+  ],
+  "formulas_or_rules": [
+    "Chew food well",
+    "Drink plenty water"
+  ]
+}

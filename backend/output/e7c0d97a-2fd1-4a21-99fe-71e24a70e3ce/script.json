@@ -1,0 +1,63 @@
+{
+  "title": "Human Digestive System",
+  "grade": 11,
+  "duration_minutes": 3,
+  "language": "english",
+  "learning_style": "visual",
+  "difficulty": "intermediate",
+  "revision_mode": true,
+  "has_code_examples": false,
+  "learning_objectives": [
+    "Define digestion",
+    "Explain nutrient absorption",
+    "Identify digestive organs"
+  ],
+  "introduction": "Visualize digestive process",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "scene_title": "Mouth and Esophagus",
+      "narration": "Digestion starts with teeth",
+      "key_concepts": [
+        "Mastication",
+        "Peristalsis"
+      ],
+      "slide_points": [
+        "Teeth chew food",
+        "Saliva breaks bonds",
+        "Esophagus transports"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "scene_title": "Stomach and Small Intestine",
+      "narration": "Stomach churns and mixes",
+      "key_concepts": [
+        "Gastric acid",
+        "Enzyme action"
+      ],
+      "slide_points": [
+        "Acid breaks proteins",
+        "Bile emulsifies fats",
+        "Absorption occurs"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "scene_title": "Large Intestine and Elimination",
+      "narration": "Waste is eliminated",
+      "key_concepts": [
+        "Water absorption",
+        "Fecal formation"
+      ],
+      "slide_points": [
+        "Water is absorbed",
+        "Feces are formed",
+        "Waste is eliminated"
+      ]
+    }
+  ],
+  "conclusion": "Digestion complete",
+  "quiz_question": "What is peristalsis?",
+  "quiz_answer": "Muscular wave movement"
+}

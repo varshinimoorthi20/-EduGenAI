@@ -1,0 +1,38 @@
+services:
+  - type: web
+    name: edugenai-backend
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    envVars:
+      - key: AI_PROVIDER
+        value: groq
+      - key: GROQ_API_KEY
+        sync: false
+      - key: VOICE_PROVIDER
+        value: gtts
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        value: sqlite+aiosqlite:///./edugenai.db
+      - key: OUTPUT_DIR
+        value: output
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      - key: GOOGLE_CLIENT_SECRET
+        sync: false
+      - key: FRONTEND_URL
+        sync: false
+    disk:
+      name: edugenai-storage
+      mountPath: /app/output
+      sizeGB: 5
+
+  - type: web
+    name: edugenai-frontend
+    runtime: docker
+    dockerfilePath: ./frontend/Dockerfile
+    dockerContext: ./frontend
+    buildArgs:
+      - key: REACT_APP_API_URL
+        value: https://edugenai-backend.onrender.com

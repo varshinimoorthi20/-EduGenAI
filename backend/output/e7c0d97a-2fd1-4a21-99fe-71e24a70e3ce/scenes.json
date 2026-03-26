@@ -1,0 +1,79 @@
+[
+  {
+    "scene_number": 0,
+    "scene_type": "intro",
+    "scene_title": "Human Digestive System",
+    "narration": "Visualize digestive process",
+    "slide_points": [
+      "Grade 11 Lesson",
+      "Define digestion",
+      "Explain nutrient absorption",
+      "Identify digestive organs"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  },
+  {
+    "scene_number": 1,
+    "scene_type": "content",
+    "scene_title": "Mouth and Esophagus",
+    "narration": "Digestion starts with teeth",
+    "slide_points": [
+      "Teeth chew food",
+      "Saliva breaks bonds",
+      "Esophagus transports"
+    ],
+    "key_concepts": [
+      "Mastication",
+      "Peristalsis"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "content",
+    "scene_title": "Stomach and Small Intestine",
+    "narration": "Stomach churns and mixes",
+    "slide_points": [
+      "Acid breaks proteins",
+      "Bile emulsifies fats",
+      "Absorption occurs"
+    ],
+    "key_concepts": [
+      "Gastric acid",
+      "Enzyme action"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 3,
+    "scene_type": "content",
+    "scene_title": "Large Intestine and Elimination",
+    "narration": "Waste is eliminated",
+    "slide_points": [
+      "Water is absorbed",
+      "Feces are formed",
+      "Waste is eliminated"
+    ],
+    "key_concepts": [
+      "Water absorption",
+      "Fecal formation"
+    ],
+    "duration_hint": "normal"
+  },
+  {
+    "scene_number": 4,
+    "scene_type": "outro",
+    "scene_title": "Summary & Review",
+    "narration": "Digestion complete What is peristalsis?",
+    "slide_points": [
+      "Key Takeaways",
+      "Mouth and Esophagus",
+      "Stomach and Small Intestine",
+      "Large Intestine and Elimination",
+      "What is peristalsis?"
+    ],
+    "key_concepts": [],
+    "duration_hint": "short"
+  }
+]

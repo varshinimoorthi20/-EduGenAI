@@ -1,21 +1,14 @@
-FROM python:3.11-slim
-
-# System deps (FFmpeg for video compilation)
-RUN apt-get update && apt-get install -y \
-    ffmpeg \
-    fonts-dejavu-core \
-    && rm -rf /var/lib/apt/lists/*
-
+FROM node:18-alpine AS build
 WORKDIR /app
-
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
-
+COPY package*.json ./
+RUN npm install
 COPY . .
+ARG REACT_APP_API_URL
+ENV REACT_APP_API_URL=$REACT_APP_API_URL
+RUN npm run build
 
-# Create output directories
-RUN mkdir -p output/videos
-
-EXPOSE 8000
-
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+FROM nginx:alpine
+COPY --from=build /app/build /usr/share/nginx/html
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]
